@@ -1,148 +1,153 @@
-# Corpus Linguistics - Study 1 - Quérem
+# Corpus Linguistics - Study 1 - Guilherme
 
 ## Prerequisites
 
 #Make sure the prerequisites in [CL_LMDA_prerequisites](https://github.com/laelgelc/laelgelc/blob/main/CL_LMDA_prerequisites.ipynb) are satisfied.
 
+### Additional prerequisites
+
+#### WebVTT
+
+#`webvtt-py` is a Python package for reading/writing WebVTT caption files.
+
+#Please refer to:
+#- [webvtt-py](https://pypi.org/project/webvtt-py/)
+
+##### Installing `webvtt-py` on Anacoda Distribution
+
+#As `webvtt-py` is not available in any of the conda channels, the following procedure should be followed on `Anaconda Prompt` to install it in the required environment, in this case `Env20240401`:
+
+#Note:
+#- You have to download and open this Jupyter Notebook on JupyterLab (provided as part of Anaconda Distribution) to visualise the procedure
+#- Replace `Env20240401` by your actual environment name
+
+#(base) C:\Users\eyamr>conda env list
+# conda environments:
+#
+#base                  *  C:\Users\eyamr\anaconda3
+#Env20240401              C:\Users\eyamr\anaconda3\envs\Env20240401
+
+
+#(base) C:\Users\eyamr>conda activate Env20240401
+
+#(Env20240401) C:\Users\eyamr>pip3 install webvtt-py
+#<omitted>
+
+#(Env20240401) C:\Users\eyamr>pip3 freeze
+#<omitted>
+#webvtt-py==0.5.0
+#<omitted>
+
+#(Env20240401) C:\Users\eyamr>conda deactivate
+
+#(base) C:\Users\eyamr>
+
+## WebVTT proof of concept
+
+#Please refer to:
+#- [CL_webvtt-py_Extraction](https://github.com/laelgelc/laelgelc/blob/main/CL_webvtt-py_Extraction.ipynb)
+
 ## Dataset
 
 #Please download the following dataset (Right-click on the link and choose `Save link as` to download the corresponding file):
-#- [tweets_all2.tsv](https://laelgelcquerem.s3.sa-east-1.amazonaws.com/tweets_all2.tsv)
+#- [cl_st1_guilherme-dataset.zip](https://laelgelcguilherme.s3.sa-east-1.amazonaws.com/cl_st1_guilherme-dataset.zip)
+
+#Extract the .zip file in the directory where this Jupyter Notebook is being executed.
 
 ## Importing the required libraries
 
+import webvtt
 import pandas as pd
 import demoji
 import re
 import os
-from collections import Counter
 
 ## Data wrangling
 
-### Importing the tweet raw data into a dataframe
+### Defining the input and output directory names
 
-df_tweets_raw_data = pd.read_csv('tweets_all2.tsv', sep='\t')
+input_directory = 'cl_st1_guilherme-dataset'
+output_directory = input_directory + '-output'
 
-df_tweets_raw_data.head(5)
+### Defining a function to extract caption texts
 
-# Dropping the first row, which contains no useful data, and resetting the index
-df_tweets_raw_data = df_tweets_raw_data.drop(index=0).reset_index(drop=True)
+def extract_caption_text(webvtt_file, caption_file):
+    vtt = webvtt.read(webvtt_file)
+    
+    # Writing the text of the caption to the output file
+    with open(caption_file, 'w', encoding='utf-8') as f:
+        f.write('text' + '\n') # Includes the header that will be used in the dataframe
+        for caption in vtt:
+            f.write(caption.text + '\n')
+    
+    # Deduplicating the text of the caption using a dataframe
+    df = pd.read_table(caption_file)
+    df['text'] = df['text'].map(str)
+    df.drop_duplicates(subset='text', keep='first', inplace=True)
+    df = df.reset_index(drop=True)
+    
+    # Creating a single string containing all 'text' values separated by spaces
+    text_line = ' '.join(df['text'])
 
-# Dropping the columns 'text_emojified' and 'photo_uniq_id' which are not used in this analysis
-df_tweets_raw_data = df_tweets_raw_data.drop(columns=['text_emojified', 'photo_uniq_id'])
+    # Rewriting the output file with the single string
+    with open(caption_file, 'w', encoding='utf-8') as f:
+        f.write(text_line)
 
-df_tweets_raw_data
+### Defining a function to recursively process the `input_directory` and store the results in `output_directory`
 
-### Inspecting the dataset and eliminating malformed data
+def process_directory(input_directory, output_directory):
+    for root, dirs, files in os.walk(input_directory):
+        for filename in files:
+            if filename.endswith('.vtt'):
+                # Constructing the corresponding caption filename
+                base_name = os.path.splitext(filename)[0]
+                caption_filename = base_name + '.txt'
 
-#### Checking if data types are consistent
+                # Creating the output subdirectory structure
+                relative_path = os.path.relpath(root, input_directory)
+                output_subdir = os.path.join(output_directory, relative_path)
+                os.makedirs(output_subdir, exist_ok=True)
 
-df_tweets_raw_data.dtypes
+                # Full paths for input and output files
+                input_file_path = os.path.join(root, filename)
+                output_file_path = os.path.join(output_subdir, caption_filename)
 
-#### Identifying rows that are empty in column `text`
+                # Calling 'extract_caption_text' function
+                extract_caption_text(input_file_path, output_file_path)
 
-print(df_tweets_raw_data['text'].isnull().sum())
+### Processing the dataset
 
-df_tweets_raw_data[df_tweets_raw_data['text'].isnull()]
+process_directory(input_directory, output_directory)
 
-#### Dropping the rows that are empty in the column `text`
+### Importing the texts into a dataframe
 
-# Drop the rows whose column 'text' is NaN
-df_tweets_raw_data = df_tweets_raw_data.dropna(subset=['text'])
+def read_file_contents(file_path):
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            return f.read()
+    except Exception as e:
+        print(f'Error reading file {file_path}: {e}')
+        return None
 
-# Reset the index
-df_tweets_raw_data = df_tweets_raw_data.reset_index(drop=True)
+def process_output_directory(output_directory):
+    # Initialize an empty list to store data
+    data = []
 
-print(df_tweets_raw_data['text'].isnull().sum())
+    # Recursively iterate through the output_directory
+    for root, _, files in os.walk(output_directory):
+        for filename in files:
+            file_path = os.path.join(root, filename)
+            file_contents = read_file_contents(file_path)
+            if file_contents is not None:
+                data.append({'text': file_contents, 'filepath': file_path})
 
-#### Removing specific Unicode characters
+    # Create a DataFrame from the collected data
+    df = pd.DataFrame(data)
 
-#The dataset may need to be cleaned of invisible Unicode characters.
+    return df
 
-##### Detecting `U+2066` and `U+2069` characters
-
-#- [U+2066](https://www.compart.com/en/unicode/U+2066)
-#- [U+2069](https://www.compart.com/en/unicode/U+2069)
-
-#Please refer to:
-#- [Python RegEx](https://www.w3schools.com/python/python_regex.asp)
-#- [regex101](https://regex101.com/)
-#- [RegExr](https://regexr.com/)
-
-# Defining a function to detect specific Unicode characters
-def extract_unicode_characters(df, column_name):
-    unicode_chars = Counter()  # Initialize a Counter to store Unicode character counts
-
-    for value in df[column_name]:
-        if isinstance(value, str):
-            # Use RegEx to find non-ASCII characters (Unicode)
-#            non_ascii_chars = re.findall(r'[^\x00-\x7F]+', value)
-            # Use RegEx to find specific Unicode characters - adjust the expression accordingly
-            specific_unicode_chars = re.findall(r'[\u2066\u2069]', value)
-            unicode_chars.update(specific_unicode_chars)
-
-    return unicode_chars
-
-# Inspect the dataframe for specific Unicode characters
-unicode_counts = extract_unicode_characters(df_tweets_raw_data, 'text')
-
-# Print the results
-for char, count in unicode_counts.items():
-    print(f'Character {char}: Count = {count}')
-
-##### Removing `U+2066` and `U+2069` characters
-
-# Defining a function to remove specific Unicode characters
-def remove_specific_unicode(input_line):
-    # Using RegEx to replace specific Unicode characters - adjust the expression accordingly
-    cleaned_line = re.sub(r'[\u2066\u2069]', '', input_line)
-    return cleaned_line
-
-# Removing specific Unicode characters
-df_tweets_raw_data['text'] = df_tweets_raw_data['text'].apply(remove_specific_unicode)
-
-### Dropping duplicates
-
-#### Retweets
-
-#Retweets bear the RegEx pattern `/\bRT @/gm` or `/\brt @/gm` at the beginning of the column `text`
-
-# Creating a boolean mask for filtering - it is preceded by '~' to invert the selection
-mask = ~df_tweets_raw_data['text'].str.contains(r'\bRT @|\brt @', regex=True)
-
-# Applying the mask to overwrite the raw data dataframe with non retweeted tweets
-df_tweets_raw_data = df_tweets_raw_data[mask]
-df_tweets_raw_data = df_tweets_raw_data.reset_index(drop=True)
-
-#### Duplicate tweets
-
-#The dataset was build in a way that if a certain tweet had more than one photo, one copy of the tweet was included per unique photo. Since we are concerned with analysing just the text, those duplicates should be removed. Tweets that bear the same 'tweet_url' are duplicates - we are going to keep only the first.
-
-df_tweets_raw_data.drop_duplicates(subset='tweet_url', keep='first', inplace=True)
-df_tweets_raw_data = df_tweets_raw_data.reset_index(drop=True)
-
-#### @mentioned tweets
-
-#A few users @mention copies of tweets towards other specific users creating multiple copies of the same tweet - those duplicates should be removed.
-
-# Create a new column 'no_mention' containing the contents of the column 'text' without any preceding @mentions
-df_tweets_raw_data['no_mention'] = df_tweets_raw_data['text'].str.replace(r'@\w+\s*', '', regex=True)
-
-# Drop duplicate rows except the first occurrence based on 'no_mention'
-df_tweets_raw_data.drop_duplicates(subset='no_mention', keep='first', inplace=True)
-df_tweets_raw_data = df_tweets_raw_data.reset_index(drop=True)
-
-## Sampling the raw data according to filtering expressions
-
-# Defining the filtering expressions
-filter_words = ['arma', 'pátria', 'ladrão', 'cristão', 'comunista', 'família', 'liberdade', 'conservador', 'deus']
-
-# Creating a boolean mask for filtering
-mask = df_tweets_raw_data['text'].str.contains('|'.join(filter_words), case=False)
-
-# Applying the mask to create 'df_tweets_filtered'
-df_tweets_filtered = df_tweets_raw_data[mask]
-df_tweets_filtered = df_tweets_filtered.reset_index(drop=True)
+# Importing the texts into the dataframe 'df_tweets_filtered'. Even though this study does not relate to 'tweets', this dataframe name is adopted in order to enable code reuse in subsequent processing stages
+df_tweets_filtered = process_output_directory(output_directory)
 
 df_tweets_filtered
 
@@ -258,26 +263,25 @@ df_tweets_filtered['text_id'] = 't' + df_tweets_filtered.index.astype(str).str.z
 
 ### Creating column `conversation`
 
-df_tweets_filtered['conversation'] = 'v:' + df_tweets_filtered['author_id'].str.replace('id_', '')
+df_tweets_filtered['conversation'] = 'v:' + df_tweets_filtered['filepath']
 
 ### Creating column `date`
 
-# Convert 'created_at' to datetime format
-df_tweets_filtered['created_at'] = pd.to_datetime(df_tweets_filtered['created_at'])
+#The date for all texts are defined as the date Guilherme sent the dataset, 16th April, 2024.
 
-# Extract the date part (without time) into a new column 'date'
-df_tweets_filtered['date'] = df_tweets_filtered['created_at'].dt.date
-
-# Add the prefix 'd:' to the 'date' values
-df_tweets_filtered['date'] = 'd:' + df_tweets_filtered['date'].astype(str)
+df_tweets_filtered['date'] = 'd:' + '2024-04-16'
 
 ### Creating column `text_url`
 
-df_tweets_filtered['text_url'] = 'url:' + df_tweets_filtered['tweet_url']
+#No URL was considered for all texts.
+
+df_tweets_filtered['text_url'] = 'url:' + 'no_url'
 
 ### Creating column `user`
 
-df_tweets_filtered['user'] = 'u:' + df_tweets_filtered['username']
+#`silas_malafaia` was considered for all texts.
+
+df_tweets_filtered['user'] = 'u:' + 'silas_malafaia'
 
 ### Creating column `content`
 
