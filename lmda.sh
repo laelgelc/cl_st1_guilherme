@@ -61,31 +61,31 @@ rm -f columns
 
 
 # Considers the quantity of variables per text unitary even if they occur only once - suitable for short texts
-#while read n word 
-#do
-#  echo "--- $n ---"
-#  rg -w "$word" tweets/types.txt | cut -d'|' -f1 | sed -e "s/$/ "$n" 1/" >> columns 
-#done < selectedwords
+while read n word 
+do
+  echo "--- $n ---"
+  rg -w "$word" tweets/types.txt | cut -d'|' -f1 | sed -e "s/$/ "$n" 1/" >> columns 
+done < selectedwords
 
 # Considers the actual quantity of variables per text - suitable for longer texts
-# Initialize the output file
-> columns
-
-# Read each line from the file "selectedwords"
-while read n word; do
-  echo "--- $n ---"
-  
-  # Process each line in "tweets/tokens.txt"
-  while read line; do
-    # Count occurrences of $word in the current line
-    line_count=$(echo "$line" | rg --word-regexp --count-matches "$word") # If 'rg' finds no matches, 'line_count' is set as empty and not integer
-    
-    # Append the count to the output file if 'line_count' is integer greater than zero. In case 'rg' finds no matches, 'line_count' is set as empty and not integer and the loop will end with error '-gt: unexpected operator', but it does not matter because the purpose is served
-    if [ $line_count -gt 0 ]; then
-      echo "$line" | cut -d'|' -f1 | sed -e "s/$/ $n $line_count/" >> columns
-    fi
-  done < tweets/tokens.txt
-done < selectedwords
+## Initialize the output file
+#> columns
+#
+## Read each line from the file "selectedwords"
+#while read n word; do
+#  echo "--- $n ---"
+#  
+#  # Process each line in "tweets/tokens.txt"
+#  while read line; do
+#    # Count occurrences of $word in the current line
+#    line_count=$(echo "$line" | rg --word-regexp --count-matches "$word") # If 'rg' finds no matches, 'line_count' is set as empty and not integer
+#    
+#    # Append the count to the output file if 'line_count' is integer greater than zero. In case 'rg' finds no matches, 'line_count' is set as empty and not integer and the loop will end with error '-gt: unexpected operator', but it does not matter because the purpose is served
+#    if [ $line_count -gt 0 ]; then
+#      echo "$line" | cut -d'|' -f1 | sed -e "s/$/ $n $line_count/" >> columns
+#    fi
+#  done < tweets/tokens.txt
+#done < selectedwords
 
 
 sort columns | uniq > a ; mv a columns  # to avoid words whose accents were stripped to be duplicated in the same text ; SAS can't handle that
@@ -212,7 +212,7 @@ rm -f examples/base/*
 
 sort -k2,2 var_index.txt | cut -f2 > kw_index.txt
 
-html2text -nobs sas/output_group3/loadtable.html > a
+html2text -nobs sas/output_cl_st1_guilherme/loadtable.html > a
 
 rm -f x??
 split -p'=====' a
@@ -226,7 +226,7 @@ do
 done < xfiles > examples/factors
 rm -f x??
 
-head -1  sas/output_group3/group3_scores.tsv | tr -d '\r' | tr '\t' '\n' > vars
+head -1  sas/output_cl_st1_guilherme/cl_st1_guilherme_scores.tsv | tr -d '\r' | tr '\t' '\n' > vars
 
 last=$( cut -d' ' -f1 examples/factors | tr -dc '[0-9\n]' | sort | uniq | sort -nr | head -1 )
 
@@ -234,7 +234,7 @@ for i in $(eval echo {1..$last});
 #for i in {1..6}
 do
   column=$( echo " $i + 1 " | bc ) 
-  cut -f1,"$column"  sas/output_group3/group3_scores_only.tsv | tail +2 > a
+  cut -f1,"$column"  sas/output_cl_st1_guilherme/cl_st1_guilherme_scores_only.tsv | tail +2 > a
 
   for pole in pos neg
   do
@@ -259,7 +259,7 @@ do
         url=$( rg $file file_index.txt | cut -d' ' -f5 | sed 's/url://' )
 
       # REGARDLESS OF FACTOR -- FACTOR FILTERING OCCURS FURTHER DOWN:
-      grep -m1 $file  sas/output_group3/group3_scores.tsv | tr -d '\r' | tr '\t' '\n' > scores # var values for this text, incl. 0
+      grep -m1 $file  sas/output_cl_st1_guilherme/cl_st1_guilherme_scores.tsv | tr -d '\r' | tr '\t' '\n' > scores # var values for this text, incl. 0
       paste vars scores | tr '\t' ' ' | grep '^v' | grep -v ' 0$' | cut -d' ' -f1 | sort  > vars_text # var labels for this text, ie not 0
       join vars_text var_index.txt | cut -d' ' -f2 | sort > vars_text_codes # words that occur in this text 
       
