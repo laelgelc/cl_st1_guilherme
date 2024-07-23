@@ -265,6 +265,18 @@ df_tweets_filtered['text_id'] = 't' + df_tweets_filtered.index.astype(str).str.z
 
 df_tweets_filtered['conversation'] = 'v:' + df_tweets_filtered['filepath']
 
+#### Replacing space by the `_` character
+
+#**Important**: Since the strings in the original columns contain spaces, Pandas creates `file_index.txt` with the columns enclosed with `"` - this caracter causes issues in `examples.sh` when it is executed. Therefore, spaces should be replaced by another character such as underscore.
+
+# Defining a function to replace space by the '_' character
+def replace_space_with_underscore(input_string):
+    modified_string = re.sub(r' ', '_', input_string)
+    return modified_string
+
+# Replacing space by the '_' character
+df_tweets_filtered['conversation'] = df_tweets_filtered['conversation'].apply(replace_space_with_underscore)
+
 ### Creating column `date`
 
 #The date for all texts are defined as the date Guilherme sent the dataset, 16th April, 2024.
