@@ -1,0 +1,42 @@
+file = t001200
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/701_-_Entenda_a_Importância_do_Voto_para_Vereador;_Pr._Silas_Comenta.pt.txt
+URL = no_url
+
+word count = 328
+words loading = 4
+factor score = 23
+
+eu quero dar um alerta a todos sobre a importância do **voto** de vereador 
+você sabe que é na Câmara Municipal que vão fazer as leis que vão 
+determinar sobre toda a coletividade da cidade você tem que aprender meu 
+querido uma coisa o **voto** de vereador não é um **voto** Exclusivo em quem 
+você tá **votando** é cociente eleitoral que que significa isso significa o 
+seguinte que se você der seu **voto** num vereador que não tem chance de 
+ganhar esse **voto** vai ser computado para outro então você pode estar 
+**votando** num cara que é teu amiguinho até o irmão da igreja que é teu 
+amigo mas não tem chance nenhuma o cara que fez a praça sei lá quem e esse 
+**voto** vai para um cara um pilantra um cara que é contra teus princípios 
+então querido aceita meu conselho **Vote** em alguém que tem a chance nem eu 
+nem e você temos bola de cristal nem adivinhação mas seja inteligente 
+racional **Vote** em alguém que tem a chance de ser Vereador **Vote** em 
+alguém porque senão o seu **voto** vai ser computado para outro e depois essa 
+pessoa vai fazer leis contra seus princípios alguém que você mesmo **votou** 
+o **voto** de vereador não é um **voto** só dele é dividido o total de 
+**votos** não é válidos dividido pelo número de cadeiras e aí cada 
+**partido** conforme a quantidade de **votos** vai fazendo o mais votado se ele 
+tiver direito a uma cadeira e e o segundo mais **votado** Então você tem que 
+tomar muito cuidado Preste bastante atenção quem está afinado com seus 
+princípios não jogue fora o **voto** de vereador você vai determinar sobre a 
+vida da sua cidade e uma das coisas mais importantes que estão sendo decididas 
+agora é **ideologia** de gênero essa praga do inferno que quer erotizar 
+crianças e destroçar família muito cuidado em quem você vai **votar** Deus 
+abençoe você Deus abençoe o [ Música ] Brasil 
+
+Lemmas in this text that loaded on the factor:
+
+ideologia 
+partido 
+votar 
+voto 

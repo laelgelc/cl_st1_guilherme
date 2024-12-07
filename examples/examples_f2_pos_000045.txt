@@ -1,0 +1,74 @@
+file = t001419
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/050_-_Bolsonaro_é_perseguido_implacavelmente_por_Alexandre_de_Moraes.pt.txt
+URL = no_url
+
+word count = 688
+words loading = 8
+factor score = 18
+
+povo abençoado do Brasil eu começo esse vídeo citando um texto da Bíblia 
+que está em Hebreus 13:6 ousemos com confiança dizer o Senhor é o meu 
+ajudador não temerei o que me possa fazer o homem eu venho um bom tempo 
+denunciando O **Ditador** da toga Alexandre Moraes esse camarada tinha que 
+tomar um impit e ser preso por atentar contra o estado democrático de direito 
+vamos às provas vou lembrar algumas coisas a vocês Alexandre Moraes Preside 
+um inquérito imoral ilegal de fake News é imoral ilegal porque não tem a 
+participação do Ministério Público é obrigatório segundo a Constituição 
+**artigo** 129 ele censura quem ele quer ele serer a quem ele bem entende 
+Alexandre de Moraes tem a tática de dar amplitude Universal e eterna a seus 
+inquéritos para perseguir quem ele bem entende colocar a gente quem ele bem 
+deseja eu pergunto a vocês o que tem a ver cartão de vacinação de um 
+coronel com inquéritos de pseudo golpe nada é para pegar o telefone celular e 
+o tablet pegou o telefone do presidente bolsonaro que vergonha para tentar 
+produzir provas aí vem com a história de abim paralela para pegar telefone de 
+ramad para tentar produzir provas aí vai lá na casa de bolsonaro em Angra 
+para pegar telefone e tablet do Carlos bolsonaro para tentar produzir provas 
+Qual o objetivo o objetivo e a saga de alexand Moraes é prender bolsonaro e 
+sucessivamente ele vem cometendo injustiça minha gente o **artigo** 102 da 
+Constituição diz que a competência principal do STF é guardar a 
+constituição e lá tá dizendo quem tem foro nem Coronel nem bolsonaro nem 
+filho de bolsonaro tem foro nem o povo simples que foi preso e foi processado 
+tem foro por um Pudo pseudo golpe que nunca houve coisa de baderneiro e a 
+esquerda cansou de fazer coisa pior inclusive Tentando invadir o STF em 2014 e 
+o STF não se meteu em nada aí eu pergunto a vocês por Alexandre de Moraes 
+não abriu inquérito contra o m e e a choquei porque vai atingir governo Lula 
+e a safadeza da esquerda em fazer perseguição e ele tem coluio com o governo 
+Lula Alexandre de mora e Flávio Dino tem uma Polícia Federal paralela e 
+Alexandre Moraes tem uma Justiça paralela que não tem nada a ver com a 
+justiça **brasileira** gente o **Artigo** 5 Inciso 55 diz que todos nós temos 
+direito ao duplo grau de jurisdição o que que é isso recorrer às 
+instâncias você quer a prova lula lula não tinha foro no Supremo foi julgado 
+na primeira instância por moro condenado por direito recorreu à Segunda 
+instância perdeu por 3 a 0 recorreu a terceira Instância e última STJ perdeu 
+por 5 a 0 e foi prévio isso é devido processo legal que Alexandre de mora 
+sucessivamente rasga para produzir provas contra seus inimigos repito o 
+objetivo dele é prender bolsonaro É uma vergonha e eu pergunto senhor 
+presidente do **senado** Rodrigo Pacheco Eos **senadores** vão ficar quieto 
+Senor Artur Lira e deputados você vão ficar quieto ele tem afrontado o 
+legislativo covardemente vocês vão ficar quieto e a **imprensa** 
+**brasileira** com exceções é claro grande parte comprada parcial 
+ideologicamente de esquerda que se omite diante das aberrações injustiças 
+ilegalidades de Alexandre de Morais e agora ah o Anderson Torres aí ó ah o 
+inquérito arquivado quem vai reparar em justiça o o cara foi prego o cara 
+ficou doente Alexandre Moraes é o responsável tem sangue nas mãos desse 
+**Ditador** o cesão que era da minha igreja morreu o cara morreu injustamente 
+numa prisão sem ter feito nada gente do Povo processada e pegando cadeia 
+fachineira com crucifixo e Bíblia o chefe do GSI de Lula recebendo os picu dos 
+golp senhores **ministros** do STF vão ficar calados Isso é uma vergonha é 
+uma **afronta** a povo e ao estado democrático direito não tenho medo de 
+**ditadores** eu temo a Deus Deus tem misericór do Brasil Deus ten 
+misericórdia do Brasil Deus em nome de Jesus manifeste aa justiça contra 
+impiedade desses homens maus Deus abençoe você e sua família Y 
+
+Lemmas in this text that loaded on the factor:
+
+afronta 
+artigo 
+brasileiro 
+ditador 
+imprensa 
+ministro 
+senado 
+senador 

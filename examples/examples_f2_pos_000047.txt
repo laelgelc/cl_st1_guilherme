@@ -1,0 +1,66 @@
+file = t001334
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/645_-_Pastor_Silas_Malafaia_comenta：__O_PSOL,_o_aborto_e_o_STF._VERGONHA!.pt.txt
+URL = no_url
+
+word count = 591
+words loading = 8
+factor score = 18
+
+olá povo abençoado do brasil todo o lixo oral é produzido por esses partidos 
+esquerdopatas depois da eleição eles querem enganar e querem seu **voto** o 
+psol provocou o stf para tentar na caneta aprovar o aborto até a 12ª semana 
+de gestação se sabia que na oitava semana um pequeno bebê já está todo 
+completo no útero materno só esperando desenvolver -se prova certa de nascer 
+agora vamos lá segundo alguns juristas entre eles um dos maiores cases gandra 
+é cláusula pétrea na constituição o **artigo** 5º caput e diz que o 
+direito à vida é inviolável e o **artigo** 60 são quatro **artigos** que 
+você muda a constituição mas não pode mudar um deles é só às garantias 
+individuais o **artigo** 4º o parágrafo 4º do **artigo** 60 agora deixa eu 
+dizer uma coisa pra vocês mesmo que alguns juristas não considerem cláusula 
+pétrea o **supremo** tribunal federal não tem autoridade para montar para 
+liberar o aborto é atribuição do congresso nacional cadê o presidente do 
+**senado** quer ver o presidente da câmara vocês um covarde fofo vou ficar 
+calado é usurpação de poder o **supremo** tribunal federal não é só pelo 
+poder na caneta querem dar o aborto agora vamos lá quer discutir a questão do 
+aborto uma das noras falácias é questão de saúde pública enganando o povo 
+questão de saúde pública qualquer tipo de aborto legal e ilegal a moleque da 
+luz não entra na questão de saúde pública agora vamos analisar o pequeno 
+bebê não é prolongamento do corpo da mãe ele o agente ativo e não passivo 
+na gestação se ele não tivesse protegido por aquela casa era expulso como 
+corpo estranho quer ver uma prova grande o ovo fecundado de um casal negro 
+implantado no útero de uma branca na china wu o ovo fecundado de um casal 
+branco implantado no útero de uma negra macho branco como é que é 
+prolongamento do corpo da mulher você sabe que o aborto é o assassinato é um 
+massacre dos poderosos sobre os indefesas que estavam vivos e esperando a hora 
+certa de nascer isso é uma vergonha isso é uma vergonha em outra um brasil é 
+signatário da convenção americana de direitos humanos e muitos **membros** 
+do stf pra provar a questão de três gêneros citaram citaram essa é essa 
+convenção eu vou citar aqui o **artigo** 4 que o brasil é signatário todas 
+as pessoas têm direito que se respeita a vida este direito deve ser protegido 
+por lei em geral desde o momento da concepção ninguém pode ser privado da 
+vida aqui claramente o brasil é signatário disso eu quero ver esses 
+**ministros** agora o que eles vão falar é uma vergonha é uma **afronta** na 
+caneta querer aprovar o aborto se não é cláusula pétrea quem decide ao 
+congresso para mudar a constituição fica aqui meu **protesto** ea 
+indignação contra essa sociedade que o que vale é prazer sabe que o aborto 
+é fruto sabe de quê da irresponsabilidade humana essa que é a verdade da 
+sociedade hedonista que o que vale ao prazer fica aqui o meu **protesto** envie 
+emails lado os **ministros** do stf nós não podemos aceitar uma coisa dessa 
+111 poder usurpando o poder que não lhe pertence fica aqui a minha 
+indignação o direito à vida é um direito fundamental do ser humano na 
+linguagem popular é a mãe de todos os outros direitos se você acaba com a 
+vida que outro direito tem valor que aqui meu **protesto** mais uma vez deus 
+tenha misericórdia do brasil 
+
+Lemmas in this text that loaded on the factor:
+
+afronta 
+artigo 
+membro (secondary)
+ministro 
+protesto 
+senado 
+supremo 
+voto (secondary)

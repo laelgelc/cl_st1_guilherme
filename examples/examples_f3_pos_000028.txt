@@ -1,0 +1,29 @@
+file = t001216
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/711_-_Por_que_os_Cristãos_Não_Devem_Votar_em_Fernando_Haddad？_Pr._Silas_comenta.pt.txt
+URL = no_url
+
+word count = 136
+words loading = 5
+factor score = 13
+
+olá povo cristão de são paulo nós não podemos **votar** em haddad só para 
+lembrar você ele nunca disse uma palavra contra o **governo** mais corrupto da 
+história do brasil que o **governo** do seu **partido** o **pt** e também um 
+péssimo **governo** na prefeitura de são paulo não se engane não esses 
+camaradas do **pt** são contra os princípios que temos e agora na eleição 
+fica todo mundo numa boa quetinho bacaninha ele defende **ideologia** de 
+gênero quer utilizar crianças em escolas ele defende aborto porque faz parte 
+da essência do **partido** dele e da **ideologia** dele ok liberação de 
+drogas tá certo casamento gay então fininho que chegou a nossa vez de dar uma 
+resposta a essa gente não **vote** em haddad deus abençoe você deus abençoe 
+sua família deus abençoe são paulo 
+
+Lemmas in this text that loaded on the factor:
+
+governo 
+ideologia 
+partido 
+pt 
+votar 

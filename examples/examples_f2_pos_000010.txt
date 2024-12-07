@@ -1,0 +1,78 @@
+file = t001626
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/437_-_INACREDITÁVEL!_O_tirano_ditador_ministro_Alexandre_de_Moraes.pt.txt
+URL = no_url
+
+word count = 714
+words loading = 8
+factor score = 32
+
+o povo abençoado no brasil eu não serei contado entre os covardes e os 
+objetos é inacreditável o que esse tirano **ditador** da toga alexandre de 
+moraes tem feito e lamentavelmente com a conivência omissão o apoio da 
+**imprensa** do congresso nacional partidos de esquerda pt pdt psb pc do b psol 
+rede e parte do psdb essa aqui é verdade o que que esse cara tem feito a cada 
+ver comigo né não é liberdade religiosa eu sou pastor você pode verdade ele 
+joga eu falo não quando a liberdade de expressão de alguns **brasileiros** 
+estão em jogo diz respeito a todos nós eu vou mostrar porque essa turma toda 
+tá perdendo credibilidade é uma vergonha o que está acontecendo gente o que 
+tá acontecendo hoje é pior do que a ditadura militar que a ditadura militares 
+governaram sem eleição sem apoio do povo e era estado de exceção agora não 
+é estado democrático de direito presidente eleito com tudo aberto e nós 
+estamos vivendo hoje um tempo pior do que a ditadura militar para vergonha de 
+oab de abrir de partidos de encher tá **imprensa** eu vou ativar memória de 
+vocês com coisas para vocês ver como essa turma aí nesse grupo losa presta 
+atenção lembra da bienal do livro no passado ó a **imprensa** crivella que 
+é senso lá fizeram alcançada presidente do stf mandou deixar os livros aí 
+mentira ainda são uns e o que que ela mandou recolher essa porque porque o 
+**artigo** 78 79 do eca estatuto da criança e adolescente manda lacrar livro 
+que tem um coisas impróprias para criança a classificação indicativa não 
+é censura tá na constituição **artigo** 21º inciso décimo-sexto é para 
+proteger o pequeno cidadão eo eca faz isso para proteger os valores éticos a 
+sociais da pessoa e da família a **imprensa** meteu o pau no que a lei manda 
+lacrar livros que tem o coisas obscenas para criança ea **imprensa** se todo 
+mundo gritou que era censura uma vergonha lembra atualizando a sua memória de 
+um terço das gravações ilegais a empresa pulou 26 instituições um dos 
+jornalistas é o órgão do ministério público federal de proteção à 
+cidadania disse que a **imprensa** podia colocar coisas adquiridas até de 
+gravações ilegais ea ninguém disse que isso era demais que será que é 
+extrapolava não é liberdade jornalística agora povo **brasileiro** para 
+deixar todas a gente seus itens envergonhada e a prisão vergonhosa do 
+jornalista osvaldo eustáquio e arrolar dez deputados federais e um **senador** 
+no inquérito que legal eu vou começar pelos deputados e **senadores** 
+**artigo** 53 da constituição deputados e **senadores** são invioláveis 
+civil e penalmente por quaisquer de suas opiniões palavras e **votos** 
+presidente da câmara rodrigo marcel um co o presidente do **senado** davi 
+alcolumbre e grande parte **senadores** são covardes como fazer um teste de 
+deputados e **senadores** pelos que eles falam e puxa as opiniões ea prisão 
+do jornalista esse **ditador** de toda a região da constituição olha aqui ó 
+220 da constituição a manifestação do pensamento a criação a expressão 
+ea informação sob qualquer forma processo ou veículo não sofrerão qualquer 
+restrição observado o disposto nesta constituição agora o parágrafo 
+segundo é de exata todo e qualquer censura de natureza política ideológica e 
+artística pior do que a ditadura militar minha gente que vergonha e esse dicas 
+outra foto alexandre moraes solta o cara e ainda dijon e não pode usar redes 
+sociais um quilômetro não pode chegar congresso e não pode incitar as 
+forças armadas para fechar as instituições como se as forças armadas fosse 
+garoto de calça curta agora chamar o presidente genocida e liberdade de 
+expressão nessa **imprensa** tão bandida diz que são manifestantes do pt 
+quando é para apoiar bolsonaro é ativistas antidemocráticos que vergonha 
+censura pior do que a ditadura e ninguém faz nada povo **brasileiro** acorda 
+povo **brasileiro** a copa a dia está sendo feita e mas não podemos nos 
+omitir hoje foi eustáquio e uma meia dúzia de **brasileiros** amanhã sou eu 
+e você eu não serei contado entre covardes e o vinícius é uma vergonha a 
+fazer um pitman essa **imprensa** omissa esquerda omisso abrir o bonita olha eu 
+desça e **senadores** covarde calados fica aqui meu **protesto** e a minha 
+indignação deus abençoe a todos aí 
+
+Lemmas in this text that loaded on the factor:
+
+artigo 
+brasileiro 
+ditador 
+imprensa 
+protesto 
+senado 
+senador 
+voto (secondary)

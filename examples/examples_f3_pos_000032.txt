@@ -1,0 +1,49 @@
+file = t001511
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/432_-_BOLSONARO_E_OS_DEPUTADOS_APROVAM_VERBA_PARA_EDUCAÇÃO_QUE_GOVERNO_NENHUM_DO_PT_DEU.pt.txt
+URL = no_url
+
+word count = 432
+words loading = 3
+factor score = 12
+
+povo abençoado do Brasil isso aqui é um fato notório de muita importância a 
+aprovação na câmara do fundo da Educação Básica que inclui o Ensino 
+Fundamental e Médio é importante isso aqui quando os **governos** do **PT** 
+decidiram eles deram 10 % para o fundo e agora e agora o **governo** bolsonaro 
+de acordo em acordo com os deputados estão dando 23 % isso é 130 % acima do 
+que o **PT** deu os **governos** do **PT** isso aqui é muito importante porque 
+esses caras gostam de surfar naquilo que não fizeram para você entender a 
+relatora né do fundeb a relator é do bem é da direita fez um trabalho 
+extraordinário a professora Dorinha deputada federal incluiu não apenas 
+professores mas os profissionais da educação todo mundo que trabalha na 
+escola perfeito e aí os caras da esquerda queriam que colocasse porque a 
+proposta dela era 25 % e queria colocar sua de votação porque sabia que o 
+**governo** ia rejeitar eu tenho que falar a verdade o Rodrigo Maia nessa eu 
+critico você Rodrigo Maia mas nessa você foi campeão segurou a coisa até 
+que a professora Dorinha relatora conversasse com o **governo** ela falou com o 
+general Ramos da articulação né o Ministro da Economia o Paulo Guedes e com 
+a Val do presidente aprovar o algo que os **governos** do **pt** não aprovaram 
+de cara ano que vem 20 % de aumento um aumento né que vai ser escalonado até 
+2026 chegando a 130 % . a proposta dos **governos** do **PT** para 10 anos 
+foram 10 % tá e a proposta do **governo** bolsonaro de acordo com os deputados 
+para você ver a diferença 23 % o aumento de 130 % relatora da direita não é 
+da esquerda e o **governo** dá direito para calar esses esquerdopata só um 
+dado 7 deputados bobalhões que vivem olhando para rede social e uma meia 
+dúzia de bobalhões não tem que dar dinheiro não esses caras estão 
+doutrinando Ah então vamos ferrar a educação porque tem Professor 
+doutrinando Vamos mudar a estrutura da educação agora negar verba para 
+educação é uma afronta e uma aberração Parabéns aos deputados e Parabéns 
+ao Presidente bolsonaro e seu **governo** não vem aqui com esse discurso para 
+enganar professores e o povo e os pais não tem que mostrar quem é que fez a 
+coisa Deus abençoe você Deus abençoe o Brasil e que possa um novo Ministro 
+da Educação fazer as mudanças necessárias para tirar doutrinação das 
+escolas porque a esquerda que a escola com **partido** para doutrinar crianças 
+e jovens nós não queremos a escola livre Deus abençoe a todos 
+
+Lemmas in this text that loaded on the factor:
+
+governo 
+partido 
+pt 

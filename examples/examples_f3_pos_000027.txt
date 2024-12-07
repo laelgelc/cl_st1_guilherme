@@ -1,0 +1,47 @@
+file = t001598
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/194_-_POR_QUE_BOLSONARO_VAI_GANHAR_ESTAS_ELEIÇÕES？.pt.txt
+URL = no_url
+
+word count = 388
+words loading = 3
+factor score = 13
+
+povo abençoado do Brasil bolsonaro vai ganhar essas eleições divulgue o 
+máximo esse vídeo análise comigo quatro anos de **governo** bolsonaro e um 
+massacre da Imprensa principalmente do grupo Globo Olha o que eles fizeram 
+domingo ontem no dia das eleições eu não vou nem falar de rede Globo O 
+Massacre o dia inteiro eu printei o online Globo online né A primeira página 
+quatro notícias contra bolsonaro nenhuma a favor meio-dia e 45 16:55 eu pretei 
+de novo seis notícias contra bolsonaro em uma mais ou menos fora isso a 
+manipulação bandida dos institutos de Pesquisas contra bolsonaro no sábado 
+eu denunciei a manipulação das pesquisas 8 horas da noite no Twitter vamos 
+ver agora safadeza os **votos** vá precisa de sábado governador de São Paulo 
+olha o que que eles disseram o Datafolha o Haddad vai ter 39 Tarciso 31 no IPEC 
+Haddad 41 Tarcísio 31 Olha a virada e a lavada do Tarciso olha como é que 
+terminou Tarciso 42 Haddad 35 Rio de Janeiro eles não conseguiram perceber que 
+o Castro ia vencer no primeiro turno de lavada Olha a pesquisa de **votos** 
+válidos tá aqui o Datafolha Castro 44 fresco 35 o IPEC Castro 47 freixo 28 
+Olha a lavada Olha a lavada resultado Castro 58 E fresco 27 agora vamos para 
+cereja do bolo da safadeza da manipulação Presidente da República no sábado 
+**votos** válidos Datafolha Lula 50 bolsonaro 36 e pack Lula 51 bolsonaro 37 
+14 pontos de diferença Olha o resultado das eleições Lula 48 , 43 bolsonaro 
+43 , 20 gente todo mundo sabe que muitos **votos** aquele que está na frente 
+ou que pode ganhar no primeiro turno bandidagem safadeza para induzir e 
+manipular o povo abençoado do Brasil isso É extraordinário bolsonaro 
+derrotou Globo imprensa militante Instituto de Pesquisa estão desmoralizados a 
+opinião deles não vale nada bolsonaro vai ganhar essas eleições em nome de 
+Jesus mais de 30 milhões de pessoas não foram **votar** o povo brasileiro é 
+honesto não suporta ver essa safadeza não vão vencer essa eleição 
+arrombada que deitou e rolou no dinheiro público essa cambada que representa o 
+**governo** mais corrupto da história política do Brasil eles vão ser 
+derrotados no segundo turno bolsonaro vai vencer essas eleições a mentira 
+não vai prevalecer contra a verdade Deus abençoe você sua família Deus 
+abençoe o Brasil 
+
+Lemmas in this text that loaded on the factor:
+
+governo 
+votar 
+voto 

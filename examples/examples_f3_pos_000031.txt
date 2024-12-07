@@ -1,0 +1,52 @@
+file = t000994
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/716_-_Pr._Silas_Malafaia_Responde_a_Discurso_Imbecil_de_Dilma.pt.txt
+URL = no_url
+
+word count = 455
+words loading = 4
+factor score = 13
+
+minha gente como cidadão no pleno gozo dos direitos da minha cidadania como 
+qualquer cidadão brasileiro livre a manifestação de pensamento eu quero dar 
+aqui uma resposta como cidadão ao discurso em bebês se um de dilma rousseff 
+quando saiu a sentença do impeachment viu como é que ela botou as unhas de 
+fora viu conexão discorda e sequer do patas que eles não aguentam o dilma 
+você venha atribuir aqueles que defendem família porque eles vão chamar 
+fundamentalistas há aqueles que são contra a **ideologia** deles é chamado 
+de fundamentalista vim aqui defender falar de homofobia o dilma você perdeu 
+mandato que você cometeu crime dilma e tem mais não vem com essa banca de 
+honesta não porque tem denúncias da lava jato que suas campanhas eleitorais 
+levou dinheiro de roubo de corrupção roubaram o país injetar na tua campanha 
+tu tem moral para falar alguma coisa dilma o temor ao fracos alguém cala a 
+boca você vai encontrar ainda com sergio moro fica tranquila sugestão 
+contados porque você vem com essa pinta de honesta o **governo** mais corrupto 
+da história do brasil essa que é a verdade sucatear o arregaçar o economia 
+12 milhões de desempregado empresas quebrando a torto ea direita mais de 100 
+mil lojas fechadas e ainda vem com marra e ainda vem com banca pra defender 
+atirou maas cara a defender homofobia defendeu **ideologia** de gênero na isso 
+é para o povo cristão ver que eles são eles colocam uma máscara mas tá lá 
+dentro deles aproveito para dar um alerta o povo cristão e as pessoas de bem 
+em quem você vai **votar** preço feito pra vereador esses caras são tão 
+cínicos e dissimulados que eles escondem o **partido** que são deixar o 
+vermelho agora é roxo agora é azul agora amarelo o dilma **ideologia** de 
+gênero dilma que você no finalzinho discurso que defender **ideologia** de 
+gênero foi rejeitada pelo senado em 2012 e rejeitada pela câmara em 2014 
+**ideologia** de gênero erotiza criança é contra o artigo 229 da 
+constituição é que vocês são contra a lei vocês são ilegais para botar 
+todo lixo moral de você na sociedade brasileira graças a deus que você tomou 
+o impeachment rega que o brasil não podia ficar travado com esse **governo** 
+corrupto e imoral graças a deus que deus tenha misericórdia nossa nação de 
+sabedoria as autoridades para um novo rumo para sairmos desse caos que esses 
+petralhas que esses petistas colocar o brasil aqui tá de brincadeira time a 
+quebrar o seu galho dilma quebrar o teu lugar é nesses acordo feito na 
+madrugada que você tinha direito político nenhum que o que reza a 
+constituição fica aqui o meu protesto já vai tarde tchau querida 
+
+Lemmas in this text that loaded on the factor:
+
+governo 
+ideologia 
+partido 
+votar 

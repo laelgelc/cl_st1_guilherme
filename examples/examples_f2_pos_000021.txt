@@ -1,0 +1,64 @@
+file = t001447
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/070_-_Fala_do_Pr._Silas_Malafaia_no_Evento_na_Av._Paulista_-_Domingo_26.11.23.pt.txt
+URL = no_url
+
+word count = 578
+words loading = 8
+factor score = 24
+
+não chamou de golpista nem de terrorista nem de ato antidemocrático para 
+vocês verem que a nossa **imprensa** é comprada por essa cambada de bandidos 
+agora no dia 8 brasileir estav lute po **brasileiro** escara um dos maiores 
+juristas do país disse o seguinte presta atenção não existe revolução e 
+golpe sem o poder de armas qual é o **brasileiro** que tava lá e foi preso 
+com metralhadora ou com bomba uma Muler faira a o crucifixo 15 anos de cadeia 
+Qual é a arma que oão tinha na mão Qual é o revólver ISO É uma vergonha 
+isso é uma vergonha a **imprensa** tem nas mãos o sangue Deão também sabe 
+qual foi o tamanho da nota do **Globo** morte patriota olha aqui ó desse 
+tamanhinho ninguém falou nada **imprensa** calada não disseram nada tem 
+sangue nas mãos deles por causa de grana de um governo que saqueou esse país 
+do passado agora vocês vejam preste atenção gente nenhum dos **brasileiros** 
+presos no dia 8 ninguém tem foro no **Supremo** o foro do **supremo** tá no 
+**artigo** 53 e 102 da Constituição o máximo que o **ditador** da toga 
+Alexandre Moraz tinha que fazer Quem Quebrou quem fez maderna primeira 
+instância primeira instância é gente povo **brasileiro** o **ministro** do 
+stdf dizem alo Bon som temos que combater a Extrema direita que moral esse cara 
+tem para ser **Ministro** do STF ass assassino assass assassino o presidente do 
+**senado** Barroso declarou nós derrotamos o bolsonarismo esses caras se isso 
+aqui é um país sério impit nesses caras não tem moral [ Música ] [ 
+Aplausos ] eu fi aqui Irã porque ela é evangélica Frequenta a Igreja Nossa 
+lá em Brasília eu disse a morte do teu marido eu não queria na pele deles 
+pun deixa eu dizer aqui uma coisa eu vou encerrar minha palavra que ela vai dar 
+uma palavra aqui pra gente encerrar com o hino nacional eu vou falar da minha 
+fé respeito você se você é contra ou se você não gosta anote se esses 
+caras escaparem do **supremo** poder que é o povo e da nossa Justiça eles 
+não vão escapar da justiça divina e eu declaro em nome de gló nós não 
+temos um **Supremo** Tribunal Federal nós temos sim um **Supremo** Tribunal 
+político que prende gente do povo e a constituição **Artigo** 5 Inciso 55 
+que diz que o **brasileiro** tem direito ao duplo grau de jurisdição O que é 
+isso primeira instância você perdeu recorre pra segunda você perdeu recorre 
+pra terceira E se o caso for constitucional Agora imagina quem tá julgando a 
+usdf a quem recorrer só o povo e a Deus só o povo e a Deus o povo é o 
+**supremo** poder de uma nação não é Alexandre de mora nemf o povo é o 
+**supremo** poder de uma nação aqui é o início da disse os vídeos que eu 
+tenho feito questionando Alexandre Moraes pode mandar me prender Eu não tenho 
+medo de terroristas é o ramaz que a esquerda apoia contra o estado 
+democrático e soberano que Israel isso é terrorismo degolar crianças matar 
+mulheres estuar gente olha a vergonha o **ministro** do GS P do Palácio pros 
+pseudos terroristas o **ministro** Gonçalves deu água o Senor Flávio tava 
+assistido da janela essa cada tinha que sera eu vou terminar será vencido o 
+povo Fido jama será maiso o povo Fido jamais será presiso o povo unido jamais 
+será priso o povo unido jamais seráo 
+
+Lemmas in this text that loaded on the factor:
+
+artigo 
+brasileiro 
+ditador 
+globo 
+imprensa 
+ministro 
+senado 
+supremo 

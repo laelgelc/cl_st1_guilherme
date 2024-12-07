@@ -1,0 +1,52 @@
+file = t001355
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/767_-_Estatuto_da_Família_e_a_Verdade_que_a_Imprensa_Omitiu.pt.txt
+URL = no_url
+
+word count = 482
+words loading = 3
+factor score = 27
+
+olá gente eu sou um defensor ardoroso de uma **imprensa** livre **imprensa** 
+tem que ser livre dá pra falar mal nós eu tenho isso como princípio mas 
+deixa eu falar uma coisa não é que eu acredito que a **imprensa** tem que ser 
+livre que eu não vou fazer críticas por exemplo a questão do estatuto da 
+família à **imprensa** de maneira quase que absoluta negou a verdade dos 
+fatos eu creio que a **imprensa** ela tá aí pra dar um tititi a como ela é a 
+**imprensa** não tem para defender esse ou aquele ou aquele mas eu lamento 
+quem presta **brasileira** na sua grande maioria defende se um activista gay e 
+as causas gay qual é a questão do estatuto da família à **imprensa** acusou 
+os deputados foram contra a decisão do stf o que está na constituição 
+**brasileira** que a lei máxima do país **artigo** 226 parágrafo 3º que a 
+constituição **brasileira** reconhece família homem e mulher a família é 
+constituída de homem isso não é constituição federal da constituição 
+federal ele deu a união civil eu falei do líder do ativismo gay o toni reis 
+disse lá na audiência pública da comissão do estatuto da onu seguinte se 
+vocês quer que a constituição considera em família dois homens ou duas 
+mulheres reúna 308 deputados faça uma pé um projeto de emenda constitucional 
+e hoje é vergonhoso e moralização da constituição libera tudo que é droga 
+porque só no estado do rio de janeiro tem mais de 11 milhões da idéia então 
+vamos cortar jens porque tem um grupo está praticando que conversa é essa 
+vamos falar a verdade a comissão do estatuto da família ela concordou com que 
+está escrito na constituição que reconhece como o time estava a família que 
+é constituída por homens querem mudar a constituição então vamos ter um 
+viés político da lei e reúna 308 deputados que apóia isso pra mudar a 
+constituição não pode ser caneta de juiz e não pode depor parei para poder 
+fotografar a cia então a rasgar a constituição e carol viva o cheiro que 
+quer ver hoje para a sociedade **brasileira** nós vamos virar um estado 
+anárquico que não tem lei um estado onde não há lá e hoje no anime já 
+aterrou o catar já está pronunciada vamos obedecer à constituição gente a 
+**imprensa** ela não pode falar a favor de áudio e vamos dar a notícia como 
+ela é e cba curioso que defendeu o grupo contra uma lei constitucional e não 
+mude a constituição senão família **artigo** 226 parágrafo 3º é 
+constituído de um homem e de mulher e só tem uma maneira para mudar isso é 
+uma pele enviada ao congresso nacional e que tem que ter 308 deputados o que 
+passar disso r olá lei é rasgar a constituição para poder agradar qualquer 
+e não podemos aceitar isso e deu certo 
+
+Lemmas in this text that loaded on the factor:
+
+artigo 
+brasileiro 
+imprensa 
