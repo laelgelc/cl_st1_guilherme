@@ -1,0 +1,58 @@
+file = t001599
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/053_-_Os_abusos_e_absurdos_do_ditador_Alexandre_de_Moraes.pt.txt
+URL = no_url
+
+word count = 443
+words loading = 11
+factor score = 18
+
+povo abençoado do Brasil Eu Não Posso Me Calar diante dos **Absurdos** e das 
+aberrações cometida por esse **ditador** da toga Alexandre Moraes quem vai 
+parar esse cara ele manda a polícia federal na casa do líder da oposição 
+Carlos Jordi para fazer buscas e apreensões essa conversa fiada desmoralizada 
+já foi desmoralizado tentativa de golpe dia 8 de janeiro que tentativa de 
+golpe alguém tentou derrubar Lula Que conversa é essa baderneiros a esquerda 
+cansou de fazer quebra-quebra em Brasília e nunca foram chamados de golpistas 
+e sim de manifestantes Isso é uma vergonha Alexandre de Moraes ele dá 
+amplitude eterna e dá amplitude minha gente geral Universal a seus inquéritos 
+para promover perseguição de quem ele quer ah porque o Carlos Jordi falou com 
+manifestantes é porque alguém perguntou a ele se vi de fazer greve é algum 
+crime isso é crime agora falar com pessoas ou até combinar uma greve onde é 
+que tá o crime na **Constituição** Isso é uma vergonha eu quero fazer uma 
+pergunta ao presidente da Câmara Senor Artur Lira e aos deputados vocês vão 
+se calar Alexandre de Moraes mandou a polícia federal aí no gabinete do 
+deputado na Câmara senhor presidente do **senado** Rodrigo Pacheco e 
+**senadores** vocês vão se calar uma **afronta** ao poder legislativo que 
+não tá nem aí escolh a vocês e ninguém fala nada ninguém abre um processo 
+de impit contra esse **ditador** senhores **ministros** do STF os outros 
+**ministros** vocês vão se calar vocês pensam que vão escapar se omitindo 
+dessa vergonha vocês vão entrar pra história como omissos e a **imprensa** 
+com exceções grande parte de uma **imprensa** covarde comprometida que tem 
+lado de parcial Isso é uma vergonha gente é uma povo **brasileiro** e ao 
+estado **democrático** de direito quem vai parar esse **ditador** não tenho 
+medo denuncio aqui is É uma vergonha gente se vai na casa de um deputado que 
+é líder da oposição ele manda na casa de qualquer um isso é uma 
+**afronta** É uma vergonha é uma ditadura do Judiciário e o judiciário não 
+tem nada com isso mas na pessoa desse **ditador** Alexandre mora Eu Não Vou Me 
+Calar vou afrontar e vou desafiar ele se Cala Quando é questões que envolvem 
+a turma da ideologia dele hã vocês estão sabendo né do do do mais de oito 
+aí e o que fizeram e El ó caladinho não fou nada não fez nada fica aqui a 
+minha indignação meu **protesto** e o meu desafio a deputado e **senadores** 
+vocês vão se calar vão ser covardes a história não vai perdoar vocês Deus 
+tem misericórdia do Brasil Deus abençoe você e sua 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo
+afronta
+brasileiro
+constituição
+democrático
+ditador
+imprensa
+ministro
+protesto
+senado
+senador

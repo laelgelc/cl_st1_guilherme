@@ -1,0 +1,51 @@
+file = t001535
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/699_-_Pastor_Silas_Confirma!_Porque_Você_Não_Deve_Votar_em_Jandira,_Freixo_e_Molon.pt.txt
+URL = no_url
+
+word count = 436
+words loading = 6
+factor score = 10
+
+eu quero reafirmar mais uma vez por que você não deve **votar** em jandira em 
+freixo em long e isso tudo pertence a puxadinho do **pt** pi sol rede pc do b 
+é puxadinho do **pt** vocês vejam bem eu nunca vi esses três abrirem a boca 
+pra dizer uma olha uma palavra contra toda essa lama essa corrupção a maior 
+roubalheira a política da história do brasil e esses três não abriu a boca 
+em um minuto sequer pra condenar isso é uma insensatez é um cinismo que não 
+tem tamanho fora isso quero reafirmar que durante quatro anos essa gente luta 
+contra princípios cristãos essa gente a favor de aborto essa gente a favor de 
+casamento gay de liberação de drogas essa gente a favor de todo esse lixo 
+moral é a favor de **ideologia** de **gênero** que é contra a constituição 
+contra a convenção americana de direitos humanos contra a decisão da câmara 
+e do senado querer o tzar crianças são covardes essa gente agora posa para 
+foto de bacana de gente muito boazinha mar durante quatro anos eles lutam com 
+toda a energia para destroçar os valores morais que quem que tem conduzido o 
+bem estar da sociedade é isso aqui gente como é que pode esses caras não dá 
+uma palavra contra esse **governo** corrupto que de rebentou a petrobras como 
+é que pode como é que é isso com que autoridade essa gente pode crescer o 
+prefeito do rio de janeiro que moral essa gente tem que protege bandido e 
+ladrão que não diz uma palavra contra que são contra valores cristãos e 
+agora que é o nosso **voto** querido querida diga não à jandira inclusive 
+essa o senhor sérgio machado e gil e tom da petrobras na delação a citou 
+tatão tudo de boca fechada o senhor freixo é aquele que luta contra aqueles 
+que têm sua casa demolida e recebe grana da empresa que de que faz a 
+demolição quem quer isso minha gente o o obolon saiu do **pt** veio pra rede 
+sabe se escondendo não é daquilo que sempre defendeu senhores agora chegou a 
+nossa vez do nosso **voto** não **vota** nessa gente vamos dizer não a essa 
+gente que de maneira cínica e fingida como se nada tivesse acontecendo no 
+brasil com 12 milhões desempregados quebrar a petrobras destroçar a nossa 
+economia e ele estudo defende seus amiguinhos é isso que você tem que pensar 
+diga não à jandira diga não à freixo de ganor molon deus tenha 
+misericórdia do rio de janeiro deus tenha misericórdia do brasil deus 
+abençoe você e sua família 
+
+Lemmas in this text that loaded on the factor:
+
+governo
+gênero
+ideologia
+pt
+votar
+voto

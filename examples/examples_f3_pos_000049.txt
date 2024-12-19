@@ -1,0 +1,65 @@
+file = t001244
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/693_-_Pr._Silas_Malafaia_Responde_Acusação_de_Freixo_Sobre_Boatos.pt.txt
+URL = no_url
+
+word count = 643
+words loading = 6
+factor score = 10
+
+olá povo abençoado do rio de janeiro eu estou aqui para rebater as 
+acusações de freixo dizendo que eu escalei boatos sobre ele na internet sem 
+dizer chamado fechou na maior força você é cínico covarde dissimulado 
+mentiroso típico dos esquerdopatas que querem dar uma de vítima e se esconder 
+atrás da imprensa para negar a verdade não vou falar tudo que está aí os 
+vídeos encanada youtube aí tá aí é só lá para torcer malafaia fala quem 
+é fresco você vai ver só por pinça algumas coisas quer dizer freixo que é 
+boato que vocês seu **partido** sempre apoiar os black blocks essa cambada de 
+vagabundo e anarquista quebrar a cidade não verdade você feche seu 
+**partido** sempre apoiar a liberação de drogas isso é boa claro que não 
+vai negar o que você pensa a sua **ideologia** você vai pegar você ô 
+pessoal a qual **ideologia** de **gênero** que é erotiza criança de seis 
+anos chegou à cidade brincadeira fechou você eo p sol sempre apoiar de 
+maneira intransigente o **governo** mais corrupto da história do país o 
+**governo** dilma você nunca disse uma palavra contra eles essa gente quebrou 
+a economia do país destroçaram a petrobras 12 milhões de desempregados ea 
+prova é que o **pt** apoiando junto do pc do b da rede e do p-sol que tudo 
+isso é puxadinho do **pt** agora eu vou te mostrar uma coisa que é o povo do 
+rio de janeiro precisa saber a sua mulher se ela hoje é joão é problema meu 
+foi nomeada no gabinete dos seus amiguinhos a família e solista coelho renato 
+5 aí você freixo vai gritar daí bastou isso não é legal então vou te 
+ensinar um ato pode ser legal diante da lei mas não o torna necessariamente 
+justo ético e moral vou te dar um exemplo o salário mínimo é legal não é 
+justo não é ético e não é moral o povo brasileiro povo do rio de janeiro 
+tá cheio de ver políticos lo tango sua família e seus amiguinhos em cargos 
+públicos o povo repudiar isso agora vou te dar uma prova pra você e eu que 
+não só político ajuda federal eu desafio quem quiser nunca nomeei um filho 
+meu encargo de gabinete de ninguém sabe por quê porque eu tenho ética porque 
+isso é imoral sabe isso não é justo para um cara como eu que atacou essa 
+cambada de gente que ama em de cargo nomeado e que o povo fica indignado que 
+moral você tem para ser prefeito do rio de janeiro vou te contar uma sobre 
+essa questão eu quando o acusado pelo jornalista inescrupulosa adiantar seu 
+canalha mentiroso bandido sabe que eu peguei meu imposto de renda e botei na 
+tela do programa de tv para provar que ele é mentiroso uma das coisas mais 
+sigilosas da cidadania para de falar se a prova que o que eu tô falando quatro 
+pára de se defender diz ser um engana ninguém agora eu vou falar daquilo que 
+é da minha fé daquilo que eu acredito você esconde o que eu tenho orado a 
+deus para que em nome de jesus o espírito santo esclareça a esse povo 
+simpático bonachão hospitaleiro do rio de janeiro para não ser enganado por 
+um cara como você com esse falso moralismo cínico dissimulado mentiroso e 
+vendido pra encerrar free para **votar** uma pá de cal nesse seu falso 
+moralismo e me acusar de boato aí tá prova o diário oficial a exoneração 
+da sua mulher do gabinete dele o macaco ele em 2012 e admissão da sua mulher 
+no gabinete de renato cinco dia 1º de janeiro de 2013 acabou para você o povo 
+do rio de janeiro vai te rejeitar que deus tenha misericórdia do rio de 
+janeiro fora frevo deus abençoe você deus abençoe sua família [ Música ] 
+
+Lemmas in this text that loaded on the factor:
+
+governo
+gênero
+ideologia
+partido
+pt
+votar

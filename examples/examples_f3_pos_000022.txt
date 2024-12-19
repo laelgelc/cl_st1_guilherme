@@ -1,0 +1,55 @@
+file = t001264
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/241_-_CORRETÍSSIMO!_MINISTRO_BARROSO_É_CHAMADO_DE_MENTIROSO.pt.txt
+URL = no_url
+
+word count = 495
+words loading = 3
+factor score = 14
+
+o povo abençoado do Brasil a coisa é séria o Barroso de uma palestra em 
+Oxford puxar mais mentiroso partes isso não 2017 quando foi apresentada a nova 
+urna onde tem o **voto** impresso lacrado no lugar se houver necessidade de 
+auditoria Barroso usar uma declaração o TSE disse que aceite rios que Barroso 
+nunca foi o **voto** impresso então escute se Barroso Nunca tivesse apoiando 
+do **voto** impresso quando ele falasse da urna ele ia fazer uma ressalva é 
+quando você compra um cai diz assim esse carro Espetacular mas ele não tem 
+muita segurança em curva você tá fazendo uma ressalva ele não fez a 
+ressalva então eu vou mostrar a primeira palavra dele 2017 vamos lá peça 
+você fabricado em tecido flexível o local destinado ao **voto** facilita a 
+reposição praticamente muito bonita e vem se integrar a esse sistema 
+Extraordinário de apuração a integrar a esse sistema Extraordinário de 
+apuração que vem se integrar a esse sistema Extraordinário de apuração 
+eleitoral que nossa culinária que vai se entregar ao processo né de 
+apuração essa urna e que o próprio TSE proíbe propaganda vamos ver para 
+você entender o que que é o **voto** auditável o que que é o **voto** 
+impresso Então vamos lá e [ Música ] próprio TSE a propaganda da Luna não 
+tem que eu tô com três e outro problema ele não foi contra o **voto** 
+impresso essa aqui é a verdade agora vamos ver a mentira Descarada de Barroso 
+biótipo da minha Gestão na presidência do TSE eu preciso lidar com a 
+pandemia precisei oferecer resistência aos ataques contra a democracia e 
+impedir esse abominável retrocesso que seria volta ao **voto** impresso com 
+contagem pública manual que sempre foi o caminho da fraude no Brasil porque 
+acham pode entrar na internet agora qualquer pessoa e esse era o discurso 
+oficial a contagem pública manual também é é muito bem segunda viagem 
+então a o discurso oficial era o discurso oficial era abro nan **voto** 
+impresso com contagem pública manual fecho astros. É só é só olhar e a 
+Esse é um dos problemas tiver que nós estamos enfrentando no Brasil deve 
+imenso de civilidade Mas voltando aqui a PEC aprovada no Congresso é bem 
+organizada e Barroso foi fazer op Lobby político para barrar o **voto** 
+impresso e olha o que ele tá falando É mentira Ninguém quer contagem de 
+**voto** manual é que vocês viram no vídeo você **vota** eletronicamente 
+com ferro **voto** vai para uma outra lacrada porque se tiver que fazer um Audi 
+tarde por desconfiança minha gente de fralda você tem como comprovar agora 
+preste atenção nós temos o direito à liberdade de expressão e desconfiado 
+apuração para os três Vinícius vão comandar as **eleições** agora o meu 
+Deus do céu tem misericórdia saquinho cabo Eleitoral de Dilma que liberou uma 
+o Hulk do Pará política do Brasil simulado essa aqui é a verdade 
+misericórdia do Brasil e nos livre dessa gente é 
+
+Lemmas in this text that loaded on the factor:
+
+eleição
+votar
+voto

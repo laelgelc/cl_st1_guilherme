@@ -1,0 +1,61 @@
+file = t001486
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/393_-_BOLSONARO,_CRISTÃOS,_ELEIÇÕES_E_A_IMPRENSA.pt.txt
+URL = no_url
+
+word count = 569
+words loading = 5
+factor score = 15
+
+o povo abençoado do Brasil eu quero falar sobre bolsonaro cristãos 
+**eleições** a imprensa e vou incluir os institutos de pesquisa a gente essa 
+imprensa que de parte não toda é parcial esquerda o pata o tem a bolsonaro 
+porque perderam bilhões a mamata de **governo** por ano então Os caras ficam 
+alucinado pensam que o povo é burro e não sabe analisar Olha aí Dizendo que 
+os maiores perdedores destas **eleições** o PT e bolsonaro só pode ser piada 
+bolsonaro apoio os 18 caras a prefeitura né a prefeito de 5700 cidades Lula 
+apoiou centenas e ninguém fala nada disso quem foram os grandes perdedores 
+nessas **eleições** primeiro os **partidos** de esquerda no quadro aí tomar 
+a rádio PT foi varrido e depois o PS beber tá hein Olha esse quadro tô 
+mostrando a você essa empresa é brincadeira minha gente fez Emília 
+**eleição** falar primeira essa esquerdopata cínica véi esses caras falarem 
+isso é um atentado à nossa inteligência minha gente olha esse quadro aí 
+você é verdade olha olha a barriga que o PT tomou Olha a percentagem dos 
+**partidos** de esquerda o que eles perderam nessas **eleições** Olha o PSDB 
+Bruno Covas teve que esconder Dori apagar a **eleição** olha mas o que sol 
+cresceu de 2 para 5 a você quer ver a direita crescer dá uma olhada no Avante 
+de 12 para 82 o psl de 30 para 90 Prefeitura do patriota de 1349 agora vem 
+republicanos PP O que vocês acham que tem eh Rodrigo Maia e ACM Neto vontade 
+de bem apoia bolsonaro os **partidos** de centro-direita lavaram a cara à 
+esquerda tomou uma pancada e esse jornalistas bem me dizer na cara de pau que 
+bolsonaro perdeu por causa de vir em São Paulo olha a entrevista que eu dei 
+para o camarada do olho antes do primeiro turno aí ó eu já sabia que 
+Russomanno e Crivella e não perder e o botar no colo de bolsonaro Olha aí 
+minha gente e olha a safadeza desses institutos de pesquisa cambada de 
+Cafajeste vinho escrupulosos Olha o que que deu vamos lá São Paulo São Paulo 
+será 55 a 45 5941 quase o dobro em Fortaleza aqui a moto as bandidagem a 61 a 
+39 o cara lá do Cirilo ganhou com 51 a 48 Impacto técnico e se influencia o 
+**voto** olha a vitória 5050 o PT tomou uma surra 5841 os institutos de 
+pesquisa só erram a favor da esquerda Isso é uma manipulação imagina o que 
+esses caras vão fazer na **eleição** de presidente minha gente agora para 
+encerrar minha gente um povo Cristão de um banho nessas **eleições** a 
+esquerda nunca mais vai enganar Cristão e destaco aqui meus irmãos 
+evangélicos eles são a **ideologia** deles ao Marxismo cultural que é contra 
+nossos princípios e valores tem mais coisa que eu não falei mas o povo tá 
+ficando isso e eles não vão tá na hora das **eleições** dar uma de 
+bonzinho vão com Bíblia hum muda roupa ai vamos para a igreja acabou para 
+vocês o conhecimento destrói a ignorância Deus abençoe você Deus abençoe 
+sua família Deus livra o Brasil do Cláudio dessa pandemia Deus nos livre 
+continue a nos livrar dessa esquerda que foram responsáveis pelo maior 
+escândalo de corrupção e roubalheira da história política do Brasil essa 
+gente foi Barriga agora e vai continuar ser Deus abençoe você Deus abençoe o 
+Brasil 
+
+Lemmas in this text that loaded on the factor:
+
+eleição
+governo
+ideologia
+partido
+voto

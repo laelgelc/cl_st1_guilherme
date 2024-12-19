@@ -1,0 +1,61 @@
+file = t001564
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/624_-_Pastor_Silas_Malafaia_comenta：_Exclusivo_para_evangélicos..pt.txt
+URL = no_url
+
+word count = 558
+words loading = 6
+factor score = 17
+
+a página cristo o povo de deus minha gente todos nós todo mundo evangélico 
+sabe que a bíblia não elimina a cidadania terrena jesus não eliminou a 
+cidadania terrena por cada cidadania celestial dai a césar o que é de césar 
+ea deus o que é de deus o **voto** é uma das maiores expressões de cidadania 
+quando você deixa de **votar** você dá poder a outro para decidir sobre as 
+causas e as questões de uma nação agora meu irmão nós temos a mente de 
+cristo análise comigo quem está por trás da violência quem está por trás 
+da imoralidade quem está por trás da destruição de valores de família 
+família quem está por trás jeruza crianças quem está por trás da gente de 
+que uma nação seja envolvida por corrupção e entre no caos e na bancarrota 
+satanás essa é a verdade obviamente minha gente atenta anos que eu me 
+posiciono acerto todas claro que não já tem gente honrada mas vou parar de 
+tentar eu desde 2006 participa de audiências públicas no congresso nacional 
+evitá -la nos anais aborto o **pt** apoia o casamento gay o **pt** tem peso 
+apoia a adoção de crianças por casais homossexuais o **pt** apoia 
+**ideologia** de **gênero** que é erotiza crianças de escola o **pt** apoia 
+a mudança de sexo de crianças sem consentimento do pai o **pt** apoia esse 
+cidadão que a candidata do **pt** era ministro da educação e ele tentou 
+colocar o kit gay não adianta mentir não adianta vim aqui com o engano não 
+porque se os evangélicos e católicos não pressionasse a presidente dilma 
+essa porcaria era colocada nas escolas essa é a verdade minha gente não 
+estão **votando** em candidatos a deus estão **votando** em gente que ter 
+compromissos com valores morais que tem amor à pátria que não tem a vida 
+manchada são que seja a favor da família meu deus do céu não é possível 
+nossa esperança não tenho nem eu sei muito disco muito bem disso mas não 
+podemos eliminar a vida social ea vida da cidadania que eu e você temos nós 
+não somos seres exclusivamente espirituais e estamos aqui na terra para fazer 
+a diferença nós somos cidadãos como qualquer outro eu não deixei de ser 
+cidadão porque eu sou pastor que conversa fiada é essa então meu irmão olha 
+bem quem você vai **votar** nossa esperança não é **governo** mas sua 
+esperança vem de deus vem do senhor mas estamos aqui para fazer a diferença 
+nós não podemos trocar os valores que temos por prato de lentilhas de 
+benefício de um **governo** nós não podemos falar com o povo fale com os 
+irmãos mais mostra ele essas coisas nós não podemos se a favor de 
+corrupção de destruição de família porque alguém recebe um benefício do 
+**governo** minha gente nós estamos decidindo a história da nossa nação a 
+caneta da história deus deixou na nossa mão você vai **votar** em quem 
+bolsonaro não é deus é verdade mas é um camarada comprometido com nossos 
+valores e nós vamos continuar orando pela nação pedindo a deus para livrar 
+este país da bancarrota e desse lixo moral e desses corruptos deus abençoe 
+você deus abençoe sua família e eu declaro o brasil é do senhor jesus eu 
+declaro vai em dias melhores para a nação brasileira deus abençoe a todos 
+
+Lemmas in this text that loaded on the factor:
+
+governo
+gênero
+ideologia
+pt
+votar
+voto

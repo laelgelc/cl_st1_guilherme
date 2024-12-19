@@ -1,0 +1,64 @@
+file = t001180
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/458_-_POVO_BRASILEIRO!_VIOLÊNCIA,_DESTRUIÇÃO_É_DEMOCRACIA？_TAMBÉM_FAÇO_UM_APELO_AOS_EVANGÉLICOS.pt.txt
+URL = no_url
+
+word count = 587
+words loading = 5
+factor score = 19
+
+o povo abençoado no brasil paterna quebra-quebra violência isso aí é 
+manifestação **democrática** não eu não tô acreditando onde a 
+**imprensa** **brasileira** chegou ao ridículo dizer que manifestações 
+**democráticas** ea **imprensa** tem feito isso porque bolsonaro cortou mais 
+de um bilhão da mata por ano para receber eles querem destruir o presidente a 
+qualquer preço e não vão conseguir eu vou mostrar os **absurdos** a 
+**imprensa** **brasileira** tem dito que as manifestações em apoio ao 
+presidente bolsonaro há mais de 70 dias não são manifestações livres do 
+povo é de apoiadores olha que bandidagem quer dizer ninguém recebeu mortadela 
+sanduíche de mortadela né dinheiro é espontâneo é é pessoa é livre o 
+povo em favor do presidente tem mais de 60 dias família do povo devia camada 
+amarelo não tem baderna não tem ver tá vendo aí é isso e são essas as 
+manifestações anti-democráticas ficou que tem alguma faixa contra stf ea 
+forma de militares seu mais erro unha uma vergonha agora minha gente eu vou 
+mostrar as cenas das manifestações tem preta tem chamada de manifestações 
+**democráticas** a em favor do pablo em favor da democracia contra o walter em 
+favor dos negros vamos lá olha os caras vão achando aí ó olha que quebra 
+pau olha o quebra-pau cara de o cara de verde amarelo os caras de preto barra 
+de ferro só que em inglês olha aqui olha aí olha curitiba o quebra-quebra 
+destruindo o fórum olha safadeza que a coisa que ele designado quem manda um 
+símbolo maior da nação a bandeira **brasileira** canalhas bandidos eu tô 
+pronto olha a folha está crescendo a manifestação o **globo** a piada 
+manifestação **democrática** confronto com apoiadores de bolsonaro não é o 
+povo eles não respeitam nem a vontade do povo olha aqui vergonha olha aí lá 
+no grupo olha vergonha do que esses caras estão falando eu quero fazer um 
+desafio a **imprensa** ea tem que assim seja me mostra um ato de bolsonaro 
+contra como presidente contra a democracia para fechar congresso stf igual 
+firminho tá me mostra um bolsonaro contra o povo pobre e bolsonaro racista o 
+cara que manteve o bolsa família de uma junto agora o povo na premia olha quem 
+anda com bolsonaro para cima e para baixo e a gente o hélio bolsonaro pro teu 
+nome do cara você vai vergonha e toma safadeza dessa empresa aí nesse grupo 
+rosa mas não podemos aceitar isso olha a resposta do povo em curitiba aí 30 
+segundos para você ouvir essa e olha só baderna e aí o povo **brasileiro** 
+não a nossa então pouco e amarela iphone infestações eficaz livros do povo 
+**brasileiro** e eu quero aqui fazer uma convocação eu quero convocar o povo 
+evangélico o brasil que 90 assistente de cristãos e quem quiser nesta 
+sexta-feira quatro da tarde ao vivo aqui para as minhas redes sociais eu gostar 
+com o presidente da república com bolsonaro com um grupo restrito de líderes 
+e nós vamos orar pelo presidente pelo brasil pelo stf e pelo congresso 
+nacional vamos orar pelo povo **brasileiro** tem um banner a transmissão ao 
+vivo de sexta-feira quatro da tarde tá aí ó minhas redes sociais eu vou 
+transmitir e tem um banner quando acabar esse vídeo que você pode espalhar e 
+vai ter banner na minhas redes o que é claro nome de jesus o brasil não vai 
+ter carlos social não vai ter caos político não vai ter destruição tem o 
+tempo de pensão e prosperidade para nação **brasileira** deus abençoe você 
+deus abençoe o povo **brasileiro** 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo
+brasileiro
+democrático
+globo
+imprensa

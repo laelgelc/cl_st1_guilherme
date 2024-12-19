@@ -1,0 +1,87 @@
+file = t001282
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/359_-_Piada!_Querem_derrubar_Bolsonaro,_mas_inocentam_Lula.pt.txt
+URL = no_url
+
+word count = 832
+words loading = 10
+factor score = 18
+
+o povo abençoado do Brasil só pode ser piada querem derrubar bolsonaro e Lula 
+livre vamos começar para você entender os **Senador** esquerdo o Papa 
+randolfe Rodrigues inimigo do presidente propõe uma CPI só para investigar o 
+governo federal e não tá interessado em investigar a roubalheira não o 
+interesse dele é politicagem isquinha para tentar sangrar o presidente aí vem 
+o STF através do **ministro** Barroso põe o **Senado** de joelho de obriga 
+CPI graças a Deus um **senador** sensato de credibilidade que agiram site uma 
+proposta de uma CPI samba governo federal Governador e Presidente para 
+investigar todo mundo o governo federal te mando o dinheiro e afirma que recebe 
+que fizeram com a grana superfaturamento hospitais que não foram concluídos 
+de campanha Hospital vontade de juntar eu e ele vai convocatória governador da 
+Bahia do Amazonas de Pernambuco eu só quero ver para toda a marmelada em todas 
+as safadezas não vou ficar assistindo se é para atingir o presidente ou se é 
+para investigar tudo com seriedade É incrível o ódio da **Imprensa** 
+bolsonaro eles pregam até golpe militar contra o presidente derrubada do 
+presidente na maior cara de pau aí vem a ministra Cármen Lúcia aquela que 
+mudou o **voto** para beneficiar Lula exigindo o dia que o presidente da 
+Câmara Arthur Lira diga porque não abriu um processo de impeachment contra 
+bolsonaro eu fico pensando se na época de Antônio Carlos Magalhães 
+presidente do **senado** se fosse eles hoje se eles vão ficar de joelho 
+cambada de porcos e de covarde eu queria ver o STF e botar o **Senado** EA 
+Câmara o Antônio Carlos Magalhães e polícias Guimarães vergonha safadeza 
+que não tem tamanho só um dos motivos pelos quais bolsonaro deve ser cassado 
+vamos sorrir vamos levar na Pirelli ainda deve ser cassado porque dois anos e 
+quatro meses de governo bolsonaro não tem uma notícia de corrupção no alto 
+Escalão ou que envolva é eles amiga de ser cassado Por que FHC Lula e Dilma 
+deram mais de 20 bilhões para **imprensa** e bolsonaro que eu tô toda essa 
+mamata É deve ser cassado Por que bolsonaro mandou 64 bilhões para 
+governadores e prefeitos que dava para construir 640 hospitais com 128 leitos 
+de UTI de ponta isso dá mais de 80 mil pele o défice do Brasil é de 
+aproximadamente 30 mil e os outros 30 E aí e mais 32 bits para curtir a isso 
+durante uma que você cansado causa disso tem funcionário deve ser cassado 
+também porque ele quer que o povo tem o direito de ir e de trabalhar 
+**Artigo** 5º inciso décimo quinto da **constituição** bolsonaro também 
+deve ser cassado porque ele acredita que o lugar do contém Inviolável aqui o 
+5º inciso 6 bolsonaro também deve ser cansado que ele é contra quarentena 
+sair daí o estudo na Inglaterra mostrando que mais de setenta por cento dos 
+casos de contagens convido se dão em casa deve ser cassado por esses motivos 
+agora vamos dar gargalhada que é piada vamos ver os motivos de Lula livre Lula 
+e Dilma os governos Lula e Dilma são responsáveis pela maior roubalheira da 
+história política do Brasil saquearam a Petrobras roupa bilhões o padre 
+bilhões roubado pnds a delação de Léo Pinheiro com provas robustas robôs E 
+aí o suspeito é moro e não Lula sabe Para quê Para pena prescrever tiraram 
+de Curitiba quer dizer tudo o que foi feito é uma brincadeira os acordos de 
+bilhões da Petrobras nos Estados Unidos reconhecendo a roubalheira você vai 
+vergonha agora tá no **Supremo** Tribunal Federal que coloca a Lula livre é o 
+**Supremo** Tribunal Federal que obriga o **Senado** abrir uma CPI agora o 
+**Supremo** Tribunal Federal não quer que se abra um processo de impeachment 
+contra Alexandre de Moraes que tem quase 3 milhões assinatura Gente esse é 
+uma vergonha é uma **afronta** ao povo **brasileiro** eu vou falar algo sobre 
+bolsonaro não levou encerrar aqui se dá conta que eu fiz aí dos 64b o 
+número de o Pitaco João ser construídos Eu garanto para vocês que se fossem 
+feitos mais da metade do povo que morreu de corrida eu morreria que grande 
+parte dessas mortes foi falta de um texto de ponta para socorrer o povo agora 
+sobre Lula ele foi derrotado em todas as instâncias da justiça e nem um 
+**voto** a favor dele eu encerro falando o seguinte o STF é a instituição de 
+menor crédito no Brasil eles se tornaram não Guardiões da **Constituição** 
+eles são negacionistas da **constituição** manipulam a **Constituição** a 
+seu bel-prazer rádio uma **constituição** só tem uma coisa para dizer o 
+povo é o **supremo** poder deus o **Supremo** juiz vai chegar uma hora eu 
+estou declarando aqui em nome de Jesus alguma coisa vai acontecer porque 
+corruptos homens maus a prevalecer na nossa nação em nome de Jesus Deus 
+abençoe você Deus guarde a tua casa tua família e vem tempo de dentro e 
+prosperidade para a nação **brasileira** 
+
+Lemmas in this text that loaded on the factor:
+
+afronta
+artigo
+brasileiro
+constituição
+imprensa
+ministro
+senado
+senador
+supremo
+voto (secondary)

@@ -1,0 +1,87 @@
+file = t001315
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/465_-_PR._SILAS_MALAFAIA_-_DENÚNCIAS_GRAVÍSSIMAS!_MINISTRO_DO_STF_COMETE_CRIME._VAMOS_FICAR_CALADOS？.pt.txt
+URL = no_url
+
+word count = 838
+words loading = 9
+factor score = 27
+
+o povo abençoado do brasil eu vou fazer aqui denúncias gravíssimas contra 
+dos **ministros** do stf por favor assista até o final tire suas conclusões 
+eu tô falando da cidadania de cada um de nós presta atenção antes do 
+**ministro** celso de mello liberar o vidro da reunião ministerial de 
+bolsonaro ele envia o procurador-geral do toalha para dar um parecer o parecido 
+do toalha é escondido por essa **imprensa** e inescrupulosa e eu vou dar o 
+resumo do parecer do procurador-geral o procurador-geral entende que o sigilo 
+da reunião ministerial de bolsonaro deve ser levantado somente em relação 
+aos fatos investigados tudo que não é relativo a essa questão terá que ser 
+mantido em sigilo isso é todas as denúncias demoro o que tá nessa reunião 
+tem que mostrar o restante não presta atenção minha gente o **ministro** 
+celso de o peri beirada mente liberou todo esse vídeo vídeo coalizão do 
+presidente ridicularizando **ministros** todos que estavam naquelas não tinha 
+uma consciência que estava numa reunião privada portanto que a liberdade de 
+falar se não é vergonha agora presta atenção não é de hoje não é de 
+hoje que celso de mello tem bronca de bolsonaro tá e a exame tá aí a carta 
+capital olha aí o que que tá aí na linha vermelha a maneira a maneira que o 
+**ministro** celso de mello manda três **ministros** do governo bolsonaro 
+general de quatro estrelas com vida exemplar e limpada em **ministro** você 
+não tava ensinando assassino nem canario nem bandido nem traficante não olha 
+o que que ele fala é é coisa assim sabe é eu eu fico chocado com a maneira 
+vergonhosa que um camarada a frota **ministros** tá condução de vasudeva 
+são a vergonha quando o **ministro** celso de mello abre tudo fora as 
+questões da denúncia demoro ele comete o crime de abuso de autoridade lei 
+13869 **artigo** 28 que eu ligo para você divulgar a gravação o trecho de 
+gravação sem relação com a prova que se pretende produzir expondo a 
+intimidade ea vida privada ou ferindo a honra ou à imagem do investigado ou 
+acusado 1 a 4 anos de cadeia e multa ninguém está acima da lei é crime 
+mostrar aquelas questões particulares que não tem nada a ver com acusação 
+de moro que país é esse é ditadura da porta do início é certo isso aqui 
+virou china isso aqui é comunismo da união soviética é na sigo e aí ele 
+comete um crime vem outro mini a lição de moral pela segunda vez na boca da 
+polícia federal pegar o depoimento do **ministro** da educação dessa 
+reunião gente escuta está ativo qualquer prova obtida a partir da prática de 
+crime é considerada ilícita escuta o que diz o **artigo** 5º inciso 56 da 
+**constituição** **brasileira** são inadmissíveis no processo as provas 
+obtidas por meio ilícito qualquer prova contra o **ministro** educação é 
+ilícita porque houve abuso de autoridade escondo reunião particular e aí eu 
+pergunto sabe como alguém que comanda um processo investigatório tentar ser 
+idade para futura para julgar cultura ação penal quando você pode ir ao 
+mesmo tempo ele quer ser procurador e juízo a vergonha onde é que está onde 
+desses tempo pata a **imprensa** cadê o congresso nacional os outros 
+**ministros** do stf ninguém vai falar nada não escuta o que que disse gandra 
+o maior turista do país ele detona o que celso de mello fez você não vai vir 
+a **globo** não vai deles falar também não vai ler o que ele escreve na 
+folha nem na veja isso é uma vergonha mas eu quero conclamar o povo 
+**brasileiro** uma coisa existe um projeto de lei deste 2016 tr47 54 / 2016 de 
+autoria do deputado federal sócios cavalcantes e outros usurpação da 
+competência do stf aos poderes executivo e legislativo temos que pressionar a 
+câmara tá na ccj e esse projeto se aprovado o que estão sendo no país é um 
+desmonte do estado **democrático** de direito eu não sou a favor de 
+esculhambar o congresso nacional a presidência da república nenhum stf essas 
+instituições são fundamentais para o país criticar **ministros** criticar 
+presidente deputado **senador** não tem problema agora esculhambar e que ele 
+é a destruição dessas instituições eu não sou de acordo não a minha 
+oração eu oro para deus abençoar a nossa nação e livrar o brasil de um 
+cão institucional e eu quero deixar aqui a minha palavra final porque eu tô 
+falando com um cidadão indignado de ver leis ea **constituição** ser rasgada 
+por aqueles que deviam de dar o exemplo que essas autoridades do **supremo** 
+tanto nesses dois minutos é estão vi a magistratura que pode produzir prova 
+mesmo diante de crime isso é uma vergonha a minha oração aqui no final 
+sempre falo isso eu acho que a minha palavra melhor que brasileiro a oração 
+de menor que o **brasileiro** deus livre o brasil dessa pandemia e que vinha 
+tempos de prosperidade e bênçãos sobre a sua vida e a nação **brasileira** 
+deus abençoe a todos e 
+
+Lemmas in this text that loaded on the factor:
+
+artigo
+brasileiro
+constituição
+democrático
+globo
+imprensa
+ministro
+senador
+supremo

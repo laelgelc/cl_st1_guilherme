@@ -1,0 +1,61 @@
+file = t001383
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/426_-_PR._SILAS_MALAFAIA_-_A_TIRANIA_DE_DOIS_MINISTROS_DO_STF!_UM_CONTRA_O_POVO,_O_OUTRO_CONTRA_RELIGIOSOS.pt.txt
+URL = no_url
+
+word count = 523
+words loading = 8
+factor score = 20
+
+o fado do brasil onde vai o cinismo ao estado **democrático** de direito e ao 
+povo **brasileiro** vamos começar aparecer demorar diz o seguinte que toda a 
+tirania deve ser tirada inclusive do povo que elegeu o executivo e o congresso 
+nacional alexandre morais vontade soberana do povo é que prevalece inclusive 
+sobre o stf você não estão **supremo** poder não o **supremo** poder é o 
+povo só olha a lição de moraes vai à **constituição** vou repetir aqui 
+porque em incrível um **absurdo** que um camarada de se fala a vontade da 
+maioria que se estabelece vamos lá tipo primeiro é o parágrafo único diz 
+assim todo poder emana do povo que o exerce por meio de seus representantes 
+elenco ou diretamente nos termos desta **constituição** quem tem poder é o 
+povo acima do executivo do legislativo do judiciário e também não é o 
+**artigo** segundo são poderes da união independentes e harmônicos entre si 
+o legislativo o executivo eo judiciário o **supremo** tribunal não é poder 
+acima do executivo do legislativo e outra o senhor alexandre de moraes não tem 
+autoridade para falar sobre esse assunto o senhor não tem como eu vou provar 
+aqui o senhor alexandre de moraes preside o inquérito que a maior fraude do 
+judiciário **brasileiro** a verdadeira fake news é um fake news o **artigo** 
+quinto da **constituição** rasga o **artigo** 129 da **constituição** o 
+senhor é pior do que um tempo da inquisição ao mesmo tempo os senhores são 
+vítimas polícia ministério público e juiz a maior aberração jurídica de 
+todos os tempos no brasil e moral o senhor tem para mim falar é uma planta o 
+povo **brasileiro** falar da tirania do povo onde a vontade da maioria se 
+estabelece acima de qualquer coisa na verdade o seu na lixeira de moraes é um 
+tirano **ditador** para toga ligado ao psdb saiu de lá para ser **ministro** 
+é certo o inquérito da frente news que ele conduz tem o objetivo de tentar 
+produzir provas contra bolsonaro essa que é a verdade e os apoiadores do 
+presidente se manter cadeira secco ganha que nós estamos assistindo o seu 
+patinho a sua tese sobre abuso do poder religioso faz qualquer estado de 
+direito sônia visto da lei eleitoral não aconteça na sua comunidade e o 
+ferro tem nenhuma área da sociedade eles querem tá lá por isso que eles 
+estão a favor da mordaça nas redes sociais e é por isso que querem impor 
+algo mais a religiosos quer dizer que ele josué cidadão como qualquer um e 
+como qualquer cidadão que ultrapassar os limites da lei vai ser cobrado e vai 
+ser punido esses dois **ministros** eu quero dizer para você meu amigo para 
+você povo **brasileiro** não se espante não deus ajude olha não se admire 
+de você ver uma intervenção divina e ficar de boca aberta porque deus está 
+acima de tudo e de todos deus abençoe você deus guarde a sua família deus 
+livre o brasil dessa pandemia deus livre o brasil dessa gente mar e vem um 
+tempo de prosperidade benção para a nação **brasileira** deus abençoe a 
+todos um 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo
+artigo
+brasileiro
+constituição
+democrático
+ditador
+ministro
+supremo

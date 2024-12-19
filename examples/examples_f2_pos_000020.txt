@@ -1,0 +1,67 @@
+file = t001474
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/049_-_Denúncia_gravíssima_contra_Alexandre_de_Moraes.__E_agora,_senadores？.pt.txt
+URL = no_url
+
+word count = 584
+words loading = 9
+factor score = 24
+
+povo abençoado do Brasil é grave gravíssima a denúncia do **senador** 
+fridão Amim que é **membro** da comissão mista de controle de atividades de 
+inteligência eu vou ler aqui o papel dessa comissão para não errar é 
+órgão do Legislativo para fiscalização e controle externo de atividades de 
+inteligência e contra inteligência a fim de garantir que tais ações atendam 
+a Constituição Federal e preservar o estado **democrático** de direito vamos 
+ver a denúncia grave que ele faz nessa entrevista contra o **ditador** da toga 
+Alexandre Moraes presta atenção mas a conclusão que eu chego do que o senhor 
+disse é que ain está fora de controle porque o que o senhor pediu o Senhor 
+não recebeu não não recebi por ódio do **supremo** o problema que não 
+aconteceu nem com está nem com o r nem com o FBI é que o chefe agora é o 
+**Ministro** do **Supremo** isso nem na União Soviética aconteceu e é um 
+**Ministro** do **Supremo** que nega ao **Senado** ao congresso as 
+informações ele decreta sigilo e as entidades no caso Polícia Federal 
+corregedoria Geral da União e Aim não pode nos informar por ordem dele presta 
+bem atenção o presidente do **senado** hoje está pedindo o nome dos 
+deputados que teriam sido os parlamentares teram sido espionados ele tá 
+pedindo uma parte do que nós pedimos em outubro **Senador** oer fazer o 
+informei isto eu informei isto hoje ao Presidente Rodrigo Pacheco a 
+desconsideração tanto das agências do Executivo quanto do Judiciário em 
+relação a uma função constitucional e legal para cai é um **absurdo** que 
+faz parte do abuso de autoridade a coisa é mais complicada o **Ministro** 
+Alexandre Moraes proibiu que nós fôssemos informados o **Ministro** Alexandre 
+Moraes proibiu que nós fôssemos informados o **Ministro** Alexandre Moraes 
+proibiu que nós fôssemos informados e sequer respondeu ao nosso requerimento 
+de outubro tô fazendo aqui uma colocação muito séria nós temos no STF uma 
+autoridade que todas essas informações para si para si e é um juiz e é o 
+juiz da **suprema** corte é o mesmo juiz do do inquérito 4781 que começou em 
+março de 2019 é o juiz que não é juiz natural porque não foi sorteado 
+portanto nós temos hoje na verdade pior do que a espionagem é a inquisição 
+nós temos uma inquisição que está sendo promovida pelo **Supremo** Tribunal 
+Federal Isso é um **absurdo** é uma **afronta** a poder legislativo ele negar 
+informações a um órgão que tem o dever de controlar de saber o que abim 
+polícia federal e outros fazem eu pergunto ao senhor presidente do **senado** 
+e **senadores** vocês vão deixar passar isso tem que se abrir um processo de 
+impitma contra esse **ditador** Eu Sei dos riscos que eu corro ao denunciar 
+esse cara ele pode usar um outro meio dos judiciário para me atingir eu bem 
+sei como é que funciona a coisa não Ele diretamente usando outros mas eu não 
+vou me calar não tenho medo de **ditadores** esse cara tem que tomar um 
+impeachment e ser preso ele atenta contra o estado **democrático** de direito 
+e agora e agora um **membro** da bim foi demitido por quê Porque vazou dados 
+do **senador** gente is É uma vergonha Flávio bolsonaro se tem uma abim 
+paralela é contra bolsonaro Que vergonha Alexandre de mora gente a coisa é 
+muito séria pressione os **senadores** Porque o povo é o **supremo** poder de 
+uma nação Deus temha misericórdia do nosso país Deus abençoe você e sua 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo
+afronta
+democrático
+ditador
+membro (secondary)
+ministro
+senado
+senador
+supremo

@@ -1,0 +1,69 @@
+file = t001160
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/063_-_PERIGO!_Um_alerta_e_desafio_ao_povo_de_Deus_no_Brasil.pt.txt
+URL = no_url
+
+word count = 687
+words loading = 5
+factor score = 14
+
+eu queria desafiar que a igreja para essa semana de segunda a sexta de 
+meia-noite a meio-dia fazer um jejum preste atenção o que eu vou dizer 
+irmãos nós estamos vivendo um momento perigosíssimo na nossa nação se 
+você pensa que Alexandre de Morais é ruim tão querendo mandar para lá um 
+comunista marxista vai ver o que ele defende que já tem vídeos aí que todo 
+mundo sabe já se disso há muito tempo o senhor Flávio Dino ele é pior eu 
+disse três para quebrar o galho ele é pior 10 vezes do que Alexandre de 
+Moraes todo comunista e ele é comunista raiz Batalha Contra costumes família 
+igreja espiritualidade e Pátria Todo Nós temos que orar gente nós temos que 
+orar nós estamos vivendo um momento muito perigoso nessa nação e nós temos 
+que orar misericór senhor é temos que orar Com Força eu queria I conclamar 
+quem quer fazer um jejum porque a oração da igreja muda qualquer quadro é 
+oração o que a igreja liga na terra é ligado no céu nós temos que orar tá 
+tudo programado tá tudo acertado de uma meia dúa de bandidos da direita que 
+vendem o povo por cargos no **governo** para **votar** nele tá tudo acert eu 
+conheço tudo eu eu eu monitoro presta atenção tá tudo combinado tá e o 
+mais triste irmãos gente de uma **ideologia** totalmente contrária gente que 
+não tem nada a ver mas porquea de bences porque assim que **governo** 
+comunista faz compra consciência Ele só sabe fazer comprar consciência hã 
+vai **votar** nesse cara gente que foi Eleita com **voto** do povo evangélico 
+e eu declarei no vídeo e vou declarar aqui o senhor luí Inácio Lula da Silva 
+é um traidor do Povo Cristão vou repetir o presidente da República do Brasil 
+é um traidor do Povo Cristão e por que o senh tá falando isso pastor é 
+verdade porque 20 % dos Evangélicos **votaram** nele para Presidente e 
+decidiram a **eleição** desse ele enviou uma carta na **eleição** aos 
+evangélicos falando que era defensor da vida contra o aborto primeiros atos do 
+seu **governo** tirar o Brasil das Nações que são contra o aborto e colocar 
+uma ministra que derrubou as portarias do **governo** passado para dificultar o 
+aborto irmão eu fico com vergonha não é questão política de paixãozinha 
+política crente ter paixão política eu fico com vergonha eu não tenho 
+paixão política eu tenho convicções baseado em minhas crenças e valores eu 
+tô dizendo isso aqui pode dizer pode mandar manda para quem quiser tô 
+declarando aqui mas pastor senhor não disse que Ora por ele isso é outro lado 
+da história eu oro mas não deixei de ser crítico não vi Paulo se dobrar a 
+erros de autoridade quando apanhou sem ser julgado queriam que ele fosse fora 
+da C falou não vou sair daqui não eu sou cidadão Romano ricou logo sua 
+cidadania irmãos a coisa mais séria do que vocês pensam e coisas que eu não 
+posso nem falar aqui sério sério agora tô falando para dar consciência ao 
+povo eu não vim aqui para falar em época de **eleição** não estamos em 
+época de **eleição** Então tá fácil falar para dizer que eu tô puxando 
+Brasa para para be para ser agora o Lula deu uma entrevista na el Jazira que é 
+a TV do mundo árabe esculhambando com Israel quem é que esculhamba com Israel 
+que vai prosperar num **governo** e na vida ou a gente crê na Bíblia ou nós 
+estamos de brincadeira esculhambando fazendo defesa de ramaz de um grupo 
+terrorista sanguinário mentindo com números vergonhosamente irmãos a coisa 
+é séria A coisa é muito séria tô dando aqui um alerta porque eu sou uma 
+voz Profética nessa nação aleluia eu sou uma voz Profética nessa nação e 
+eu tô falando pra igreja que eu sou pastor e sou voz Profética para vocês 
+orem orem pelo país orem pelas autoridades constituídas ore para Deus remover 
+gente mal o único que pode impedir esse cara de assumir o Supremo Tribunal é 
+Deus tem mais nada tá tudo armado só Deus ah 
+
+Lemmas in this text that loaded on the factor:
+
+eleição
+governo
+ideologia
+votar
+voto

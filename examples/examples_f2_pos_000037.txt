@@ -1,0 +1,44 @@
+file = t001195
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/148_-_Bolsonaro_ou_Alexandre_de_Moraes？_Quem_já_fez_a_ruptura？.pt.txt
+URL = no_url
+
+word count = 288
+words loading = 7
+factor score = 20
+
+povo abençoado do Brasil o presidente bolsonaro não rasgou um **artigo** da 
+**Constituição** e eu vou provar que Alexandre Moraes já fez a ruptura 
+institucional e para Nossa vergonha e tristeza com o apoio de grande parte da 
+**Imprensa** com exceções a **imprensa** vem com uma narrativa para apoia 
+esse **ditador** de Atos antidemocráticos vamos lá **Artigo** 5º da 
+**constituição** Inciso 4 liberdade de expressão décimo sexto liberdade de 
+manifestação pacífica que atuante **democrático** agora olha a **imprensa** 
+em 2014 o MST tentou invadir o STF 30 policiais feridos oito estado grave e a 
+**imprensa** não chamou de ato antidemocrático olha manuseamos o MST invade 
+propriedades Isso sim é um ato antidemocrático que a propriedade é direito 
+**Artigo** 5º inciso Vigésimo Segundo nunca vi **Globo** veja folha Estadão 
+chamar esses invasores cretinos de Atos antidemocráticos ocupação ou 
+invasão É uma vergonha o que estamos assistindo e vendo a **imprensa** foi a 
+esse camarada agora Alexandre de Moraes ele tá rasgando a **constituição** 
+rasga o **artigo** quinto como eu já acabei de falar ele rasga o **artigo** 
+129 o ministério público é o senhor da ação penal ele Preside um 
+inquérito imoral ilegal da fake News que não tá no ordenamento jurídico 
+rasga o **artigo** 53 prende de deputado e ser Deputado manda afastar um 
+prefeito de Mato Grosso que apo os atos de Brasília minha gente onde é que 
+nós vamos parar rasga o **artigo** 220 parágrafo segundo estabelece a censura 
+nós não temos mais no Brasil Câmara de Deputados **Senado** STF TSE o devido 
+processo legal nós não temos mais nós só temos Alexandre de Moraes quem vai 
+parar esse **ditador** tem que se levantar homens de coragem **artigo** 142 
+nele Deus tenha misericórdia do Brasil 
+
+Lemmas in this text that loaded on the factor:
+
+artigo
+constituição
+democrático
+ditador
+globo
+imprensa
+senado

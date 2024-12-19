@@ -1,0 +1,55 @@
+file = t001369
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/176_-_Desafio_e_confronto_aos_cristãos_no_Brasil.pt.txt
+URL = no_url
+
+word count = 509
+words loading = 5
+factor score = 16
+
+eu quero trazer uma palavra ao povo de Deus no Brasil presta atenção O 
+cristianismo não é religião é um estilo de vida para ser vivido em casa na 
+família na escola no trabalho nas relações sociais e até na hora de 
+**votar** eu não posso compreender que um cristão é cristão em qualquer 
+lugar menos na hora de **votar** até na hora de **votar** porque nossos 
+princípios crenças valores e fundamentos se manifestam também na hora de 
+**votar** se um cristão **vota** por paixão política ou porque a 
+**ideologia** é do meu sindicato desculpa você é medíocre no seu 
+cristianismo deixa eu dizer uma coisa para o povo de Deus dessa nação volto a 
+bater na tecla como verdadeiros cristãos podem **votar** em gente que diz que 
+a família é coisa atrasada entendo que está sendo dito isso é homem com 
+mulher é coisa atrasada sabe o que que é moderno mulher com mulher e homem 
+com homem isso do Evangelho como é que alguém pode **votar** em quem sempre 
+defendeu o aborto e na maior cara lavada manda a cartinha para os evangélicos 
+querendo mudar o que ele sempre defendeu e o **partido** dele defende como é 
+que você pode **votar** em alguém cujo **partido** defende **ideologia** de 
+**gênero** entra no site deles que é erotizar crianças em escolas que é na 
+verdade tirar dos Pais o poder é das questões Morais e educacionais como é 
+que pode agora o que me esta escuta isso aqui igreja o que me choca cristãos 
+na história pagaram com a sua vida para não negar o evangelho foram 
+trucidados suas famílias dizimadas e não negaram o evangelho e hoje no Brasil 
+por causa de um prato de lentilha ou de algum favor de um **governo** corrupto 
+eles negam a sua fé na hora de **votar** eu queria entender que cristianismo 
+é esse gente eu queria entender que cristianismo é esse que nós temos gente 
+quando a Bíblia diz em Mateus 7:21 Nem todo aquele que me disse Senhor Senhor 
+entrará no reino dos céus mas aquele que faz a vontade de meu pai que está 
+no céu não é o que diz é o que faz Evangelho não é o que você fala é o 
+que você pratica a minha oração é que na hora de você voltar que não vai 
+ter ninguém vendo mas Deus vai estar julgando ao você voltar ou você nega o 
+que você crê ou então você **vota** em concordância com aquilo que você 
+crê Que Deus tenha misericórdia do Brasil que Deus Abra os olhos do povo 
+brasileiro para o que tá acontecendo tudo isso que tá acontecendo aí agora 
+sabe por quê Porque a igreja saiu de quatro paredes e botou a cara lá fora 
+porque nós não deixamos de ser cidadãos desse país Deus abençoe o Brasil 
+Deus abençoe cada família e que venha um tempo de paz prosperidade benção 
+para nossa nação e nos livre daqueles que saquearam o país e nos livre de 
+corruptos em nome de Jesus amém [ Aplausos ] 
+
+Lemmas in this text that loaded on the factor:
+
+governo
+gênero
+ideologia
+partido
+votar
