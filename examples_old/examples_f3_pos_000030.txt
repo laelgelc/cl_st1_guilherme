@@ -1,0 +1,43 @@
+file = t001012
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/719_-_Um_Alerta_aos_Cristãos_Sobre_as_Eleições.pt.txt
+URL = no_url
+
+word count = 315
+words loading = 6
+factor score = 13
+
+eu quero dar um alerta os cristãos ao povo evangelho às pessoas de bem geral 
+agora chegou a nossa vez essa esquerda corrupta que destrua economicamente o 
+brasil agora também quer destruir a família certo só que nesse período 
+eleitoral eles escondem a **ideologia** deles quero dar um alerta pra você 
+não **votar** em candidatos em hipótese alguma desses **partidos** **pt** 
+psol rede pc do b e pv essa turma defende casamento gay essa turma defende 
+aborto essa turma queiró tiza crianças **ideologia** de gênero nas escolas 
+quer tirar dos pais o poder da educação moral que está garantido no artigo 
+229 da constituição brasileira e garantindo também na convenção americana 
+de direitos humanos que o brasil é signatário nós não podemos cair na 
+conversa fiada eles são bons de bico gente eles são bons de falar manda os 
+candidatos desse **partido** agora abrirem a boca e defender ea **ideologia** 
+que eles defendem durante quatro anos eu quero ver o pessoal da rede do **pt** 
+e do psol do pv e do pc do b abrir a boca para defender o lixo moral que eles 
+defendem durante quatro anos agora por causa do **voto** evangélico por causa 
+do **voto** cristão eles cala a boca e dar uma de bom moço bom na fita bom na 
+fotografia chegou a nossa vez de exercer a cidadania e dizer não pra essa 
+gente pode falar bacana pode falar bonito mas eles esconder porque são 
+covardes estou chamando aqui cínicos e covardes essa esquerda corrupta que 
+nunca disse uma palavra contra esse **governo** corrupto que destruiu o brasil 
+fica aqui o meu protesto o alerta cristãos e ao povo evangélico não vamos 
+nos enganar com essa gente diga não não **vote** nessa gente eles são contra 
+tudo aquilo de bom que temos com o ideal e com o bem estar da sociedade deus 
+abençoe brasil deus abençoe você 
+
+Lemmas in this text that loaded on the factor:
+
+governo 
+ideologia 
+partido 
+pt 
+votar 
+voto 

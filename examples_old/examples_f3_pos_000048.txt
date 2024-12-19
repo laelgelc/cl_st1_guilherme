@@ -1,0 +1,66 @@
+file = t001263
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/416_-_A_VERDADE_QUE_VOCÊ_PRECISA_SABER!_Bolsonaro_dá_veto_em_parte_às_multas_aplicadas_às_religiões.pt.txt
+URL = no_url
+
+word count = 640
+words loading = 3
+factor score = 10
+
+a bençoado do Brasil a verdade que você precisa saber sobre o veto de 
+bolsonaro em parte isso é melhor parte das multas aplicadas as religiões do 
+**governo** petista no **governo** de Dilma as religiões não é a igreja 
+evangélica não há covardia dessa grande imprensa que nos odeia você tem que 
+entender que religiões sindicatos e **partidos** políticos têm imunidade 
+tributária e até a imprensa também você precisa saber a diferença de 
+isenção tributária para imunidade tributária isenção tributária 
+renúncia fiscal lembra da Linha Branca o **governo** fez renúncia fiscal de 
+dele fogão imunidade tributária é a proibição o institucional de tributar 
+E aí está incluído as religiões **partidos** políticos sindicatos e até 
+imprensa no seu periódicos tem imunidade tributária não estamos pedindo um 
+favor a ninguém o artigo 150 da Constituição diz que temos imunidade 
+tributária tem mais eles Gandra o maior jurista do país defendendo no Supremo 
+Tribunal Federal sobre o que que é a imunidade tributária por 5 a 0 na turma 
+ele ganhou proibido cobrar tributos sobre patrimônio renda e serviços e por 
+que a imprensa porque o globo folha Estadão e veja não dá uma entrevista com 
+Ives Gandra sobre o assunto que detona que arrebenta Qual foi a dúvida ou Tá 
+certo na melhor parte a maior parte dele ter ou das multas aplicadas lá no 
+**governo** Dilma Qual foi o veto é sobre lucros e aí a gente pergunta sobre 
+lucros por algum acaso religião **partidos** políticos e sindicatos têm 
+luculo que lido as religiões estão sem fins lucrativos como a uma discussão 
+sobre esse assunto e o presidente sábio que leva é doido para beber o seu 
+sangue na dúvida ele preferiu dar objeto mais dentro do **governo** a 
+discordância Ó André Mendonça o ministro da Justiça o Dr vida aggeo tá 
+não concordam com esse veto houve uma discussão e porque o presidente do 
+evento para ele não cair na lei de responsabilidade fiscal e de maldade 
+caçaram o senhor mandar você já viu o presidente da um verbo e pediu 
+congresso para derrubar o veto dele porque porque deputados e senadores artigos 
+e está constituição deputados e senadores são invioláveis civil e 
+penalmente por quaisquer de suas opiniões palavras e **votos** o presidente 
+sob um prisma Deputado e Senador não então na dúvida ele deu VEP a menor 
+coisas a maior foi liberada e para encerrar Eu lamento de pastores comendo na 
+mão dessa grande mídia Que vergonha falando asneira falando que não sabe as 
+lutas se aproveitaram de brechas do Código Tributário para fazer covardia tá 
+sem nenhum princípio legal não tão pedindo favor não tem nenhum joguinho de 
+safadeza para proteger Igreja Evangélica são as religiões inclusive 
+sindicatos e **partidos** são mesmo patamar na mesma coisa então antes de 
+falar a minha mensagem a líderes evangélicos querer dar uma de machos Del Rey 
+vai ler vai saber o que que está envolvido antes de colocar coisas na rede 
+social e falar genera intersecção mais justo do que os outros OK então essa 
+que a verdade o veto deve ser derrubado Por que é um absurdo absurdo religião 
+não tem lucro tá isso na no Brasil não não maiores democracias do mundo 
+imunidade tributária para as religiões por quê Porque a contribuição 
+aquilo que a doação não tem tributação e pacto também do princípio tem 
+dois já foi tributada por que faz isso o estado é laico e isso é não se 
+intromete na religião não dá dinheiro para religião está certo então a 
+religião é subvencionada por contribuições não podia o público essa que 
+é a verdade que Deus abençoe você Deus abençoe o Brasil Deus guarde a tua 
+casa livro O Brasil dessa pandemia e ver um tempo de benção e prosperidade 
+para tua casa e para a nação brasileira Deus abençoe a todos e 
+
+Lemmas in this text that loaded on the factor:
+
+governo 
+partido 
+voto 

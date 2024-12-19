@@ -1,0 +1,43 @@
+file = t001368
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/418_-_PASTOR_SILAS_MALAFAIA_-_VERGONHA!_PT,_PSOL_E_PCdoB_ALIVIANDO_PARA_BANDIDOS_E_CORRUPTOS.pt.txt
+URL = no_url
+
+word count = 344
+words loading = 5
+factor score = 14
+
+o povo abençoado do Brasil que vergonha que vergonha **PT** PSOL e PC do B 
+**votem** contra o PR foi a provável catorze 85 / 2000 e 20 que dobra a pena 
+para esses corruptos que roubam dinheiro da saúde em tempo de pandemia vocês 
+têm que entender uma coisa todas as vezes que tem a votação de um projeto o 
+líder de cada **partido** vai à Tribuna para orientar o **voto** da bancada 
+quando Líder libera pancada significa que o **voto** é de responsabilidade 
+exclusiva do deputado a favor ou contra somente esses três **partidos** **PT** 
+PSOL e PC do B os líderes foram à Tribuna e orientaram a bancada a **votar** 
+e esse projeto para punir corruptos com mais severidade e eles **votaram** o 
+projeto graças a Deus foi aprovado 421 contra 64 Mas Eu Tô mostrando para 
+vocês aqui como é que tem gente capaz de voltar ainda nesse tipo de 
+**partido** isso é é o que eles pensam o líder orienta bancada a segunda a 
+**ideologia** do **partido** E aproveito para dizer alguns maldosos aqui que 
+corrupção não tem a ver com religião cor o sexo tem a ver com a pessoa com 
+a deformação de caráter eu não tô perguntando se é para tosse não é 
+pastor é evangélico ou não um absurdo gente um barco saúde precária da 
+nossa nação e gente roubando dinheiro da saúde e correndo gente e veio o 
+**PT** o sol e o que ser do pé e não aceita e não quer que se agrave tela 
+desses corrupto desses bandidos essa gente não merece o **voto** do povo 
+brasileiro de eleição de vereador aí vê eleição de prefeito de cá não a 
+**pt** PC do B A episol Foram contra agravar a pena de corrupto que tá 
+roubando na pandemia fica aqui é meio de que nasceu meu processo declarando 
+pedindo a Deus que tenha misericórdia do Brasil nos livros dessa pandemia 
+guarde você e sua casa e ver a tempo de prosperidade benção para o Brasil 
+para você Deus abençoe a todos 
+
+Lemmas in this text that loaded on the factor:
+
+ideologia 
+partido 
+pt 
+votar 
+voto 

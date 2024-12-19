@@ -1,0 +1,56 @@
+file = t001226
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/408_-_ALERTA_IMPORTANTÍSSIMO!_Atenção,_evangélicos_e_cristãos_em_geral._Assista_e_compartilhe!.pt.txt
+URL = no_url
+
+word count = 486
+words loading = 4
+factor score = 15
+
+a atenção atenção muita atenção evangélicos e cristãos esse Alerta 
+importantíssimo que eu sou dando aqui nesse vídeo presta atenção durante 
+quatro anos os **partidos** de esquerda eles trabalham encontra todos os nossos 
+princípios e Valores que agora na eleição ele tem sambarilove uma lábia 
+miserável para tentar nos enganar durante quatro anos PT PDT PSB PC do B PSOL 
+lutaram pela provação de **ideologia** de gênero na câmaras municipais de 
+todo o Brasil e agora na maior cara de pau o **voto** de evangélicos e 
+cristão você não pode estar **Voto** para prefeito e vereadores para esses 
+camarada e presta atenção **ideologia** de gênero não é ciência de 
+gênero é uma **ideologia** formada pelo Marxismo cultural para destruir o 
+paradigma do modelo judaico-cristão que impera na sociedade ocidental eles 
+querem dizer na escola para nossas crianças que ninguém nasce menino nem 
+menina não existe macho e fêmea é você que decide agora que coisa incrível 
+o fragmento de um osso de um ser humano que viveu Mil Anos Atrás a ciência 
+determina se é macho ou fêmea é um absurdo isso é uma aberração e outra 
+pertence aos pais educar não ao estado na escola o artigo 229 da 
+Constituição diz que é obrigação dos pais a educação o Brasil é 
+signatário da convenção americana de direitos humanos no artigo 12 Inciso 4 
+desistir pertence os pais educarem seus filhos as suas convicções Morais e 
+religiosas não é escola tudo que é escola tudo que a escola eles querem 
+ensinar e tentar lá provar isso esses passivos em câmaras municipais e nós 
+não podemos **votar** nessa gente que vai contra nossos princípios e valores 
+e agora uma outra questão gravíssima o Ministério da Saúde baixou uma 
+portaria para evitar que se faça a boca no Sistema Único de Saúde a não ser 
+aqueles que estão previstos na lei a mulher que é vítima de e****** Ela Tem 
+que denunciar o estuprador esses **partidos** PT PSOL PDT PC do B PSB entraram 
+no Supremo Tribunal para suspender essa porcaria cueca que pode se nós 
+queremos **votar** na cadeia esse desgraçado os estupradores permitem que uma 
+conversa fiada e que isso é uma violência contra a mulher violência contra a 
+mulher aborta violência contra o pequeno bebê no útero da mulher e 
+violência quer proteger esses desgraçados cometem e****** você como 
+evangélico com o verdadeiro cristão não pode **votar** para vereador e 
+Prefeito sim candidatos do PT e do PSOL do PC do B isso é muito sério minha 
+gente muito sério do PSB e do PDP É uma vergonha nós não podemos **votar** 
+em gente que agora dá uma de bonzinho e Passam quatro anos contra nossos 
+princípios e valores Deus abençoe você Deus abençoe sua família sabedoria 
+inteligência na hora de voltar e por favor você tem um evangélico um 
+verdadeiro Cristão repasse esse vídeo Deus quer Oi livre dessa gente da 
+política brasileira e 
+
+Lemmas in this text that loaded on the factor:
+
+ideologia 
+partido 
+votar 
+voto 

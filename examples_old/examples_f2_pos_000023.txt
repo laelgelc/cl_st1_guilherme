@@ -1,0 +1,78 @@
+file = t001118
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/363_-_Proibição_de_cultos!_As_asneiras_do_ministro_Gilmar_Mendes..pt.txt
+URL = no_url
+
+word count = 762
+words loading = 7
+factor score = 24
+
+o povo abençoado do Brasil vou falar sobre a descrição que está no STF 
+sobre a proibição de cultos e as asneiras que o **ministro** Gilmar Mendes 
+falou ontem quando ele proferiu o seu **voto** eu vou fazer uma pergunta me 
+disse uma me diz é quem quer que seja e a constituição é para ser 
+respeitada só em tempo de paz Bonança e prosperidade ou a constituição tem 
+que ser obtida Independente se o países têm dificuldade pandemia Bonança eu 
+já sei a resposta a constituição é para ser obedecida dependente do estado 
+que passa uma nação como é **ministro** Gilmar Mendes que o senhor se julga 
+no direito de por lá uma cláusula pétrea da Constituição isso é ninguém 
+pode mudar nem um congresso cláusula pétrea que o sol rasga na maior cara de 
+pau **Artigo** 5º da constituição inciso 6º a valer é Inviolável a 
+liberdade de consciência e de crença sendo assegurado o livre exercício dos 
+cultos religiosos e garantida na forma da lei a I aos locais de culto e suas 
+liturgias o lugar de culto é Inviolável o senhor é que é um mega acionista 
+da Constituição é um senhor que apoiou esse **absurdo** contra o povo 
+**brasileiro** cláusula pétrea **Artigo** 5º inciso 15º Olha o que que diz 
+olha o que que diz é livre a locomoção no território nacional em tempo de 
+paz podendo qualquer pessoa nos termos da Lei nele entrar permanecer ou dele 
+sair com seus bens nós não estamos em guerra em estado de sítio ou de guerra 
+e os senhores deram poderes a Prefeitos e governadores de impedir o povo de 
+nínive isso é cláusula pétrea O senhor é um negacionista da Constituição 
+o senhor **Ministro** e votou pela prisão de um deputado uma prisão 
+arbitrária mais uma vez negando a constituição assegura 53 deputados e 
+**senadores** são invioláveis por suas palavras opiniões e **votos** o 
+senhor é o negacionismo da Constituição as suas falas **ministros** uma 
+Mendes ontem É uma vergonha com mentiras e asneiras e outras um caso do 
+início da pandemia do ano passado de um pastor na Coreia aqui não é exemplo 
+o senhor quer botar todo mundo no mesmo Balaio isso é vergonha o senhor tem a 
+coragem de dizer na sua fala que a igreja contamina mais do que qualquer outra 
+atividade econômica em ambiente fechado então a voz e qual é a resolução 
+da Organização Mundial de Saúde que fala isso pelo contrário a 
+Organização Mundial de Saúde reconhece o papel terapêutico da igreja e sabe 
+o que eles falam lá que o lugar de culto tem que ser limpo distanciamento 
+social máscara álcool gel medidor de temperatura no início Santa mal 
+assessorado nos Estados Unidos Inglaterra e Alemanha as religiões estão 
+abertas curso se você acabou de pau de dizer que a igreja contamina mais do 
+que qualquer outro lugar fechado quer dizer que milhões de **brasileiros** que 
+usam Transportes Coletivos e permanecem mês pelo menos 4 horas por dia 
+apinhadas o senhor quer dizer que uma hora e meia de culto de oitenta por cento 
+do sociais não mas essa semana contamina mais do que isso você vai vergonha o 
+senhor quer dizer que melhores um Deus que trabalha na indústria 8 horas por 
+dia sem distanciamento social contamina mesmos do teu lugar de culto Isso é um 
+**absurdo** de baixos e que pressupostos científicos só fala isso de nenhum 
+é asneira absoluta de um cinismo vergonhoso se o **ministro** Gilmar Mendes o 
+senhor é o negacionismo da constituição tem rachado a construção apenas o 
+fogueira de vaidade para mostrar que o Senhor tem poder agora o povo 
+**brasileiro** tem que fazer uma escolha o somos uma nação Norte 
+democraticamente o somos uma república de sabores a fada eu termino citando 
+texto bíblico de Isaías 59 Versículo 14 e 15 que diz assim a justiça posta 
+de lado o direito o sábio adversidade anda professando no tribunal EA 
+honestidade não consegue chegar lá a verdade desapareceu e os que procuram 
+ser honestos são percebidos eu quero informar se o **ministro** Gilmar Mendes 
+que existe um **Supremo** sobre Chamado de Deus e o fogo é o **Supremo** 
+prover e a história está cheia de fato daqueles que enfrentam esse só se 
+souberes e o que acontece com ele que Deus tenha misericórdia do Brasil e nos 
+livre dessa gente mar que te ia rasgar a constituição Deus parte de você e 
+sua família Deus abençoe o Brasil e venha o tempo de benção e de 
+prosperidade sobre a nossa nação e 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo 
+artigo 
+brasileiro 
+ministro 
+senador 
+supremo 
+voto (secondary)

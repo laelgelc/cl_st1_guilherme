@@ -1,0 +1,98 @@
+file = t001530
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/449_-_BOLSONARO,_POVO,_MILITARES,_MEMBROS_DO_JUDICIÁRIO_E_DO_MP_INDIGNADOS_COM_A_TIRANIA_DO_STF..pt.txt
+URL = no_url
+
+word count = 968
+words loading = 11
+factor score = 27
+
+o povo abençoado do brasil mais feliz se as gravíssimas contra os 
+**ditadores** da toga do stf se você pensa que a tirania deles começou com 
+esse inquérito **absurda** em legal das fake news eu vou ativar memória do 
+povo **brasileiro** vocês lembram do imbróglio moro e bolsonaro onde moro faz 
+denúncias que bolsonaro queria ter filho na polícia federal na reunião 
+ministerial o **ministro** celso de mello mandou liberar aquela reunião quase 
+que inteira mais de duas horas o procurador-geral recomendou a ele que só 
+deveria liberar os trechos que tinham a ver com a denúncia do muro ele 
+deliberadamente abriu o mar de duas horas de reunião para ridicularizar o 
+presidente bolsonaro e seus **ministros** quando ele faz isso ele comete um 
+crime o crime de abuso de autoridade que eu vou ler para vocês é a lei o 
+**artigo** 28 divulgar gravação ao trecho de gravação sem a relação com a 
+prova que se pretende produzir expondo a intimidade ea vida privada ou ferindo 
+à honra ou à imagem do investigado ou acusado em torno comete um crime eles 
+põem a honra a intimidade das pessoas agora ele vai cometer o segundo crime 
+contra a constituição **brasileira** **artigo** 5º inciso 56 que eu mandei 
+para vocês são inadmissíveis presta atenção em são inadmissíveis no 
+processo as provas obtidas por meio ilícito lembra da educação xingou stf 
+ele abriu um inquérito íntimo ou camarada é inadmissível a prova é a fita 
+porque esse vídeo não pode ser usado gente o que que é isso como é que um 
+**ministro** do stf produz uma prova ilícita e abriu o inquérito para tentar 
+incriminar o **ministro** chamado vergonha isso é um **absurdo** preste 
+atenção ao **voto** do **ministro** marco aurélio que é uma cacetada nessa 
+tirania do stf olha para vocês estamos diante de um inquérito natimorto 
+inquérito do fim do mundo sem limites se o órgão que acusa o mesmo que julga 
+não há garantia de imparcialidade para essas associações do ministério 
+público tem denunciado esse abuso de competência do stf ea **imprensa** não 
+dá destaque **membros** do ministério público estão indignados com stf não 
+pertence ao juiz e mais o ministério público o sistema acusatório são eles 
+os senhores da ação penal e pode gente estão **absurdo** a vítima não pode 
+processar e julgar quer dizer que seu alexandre de moraes manda na casa das 
+pessoas tá para tentar ver se consegue arrumar alguma coisa tá dessas pessoas 
+a seu favor que é vítima é um **absurdo** e outra ninguém pode ser 
+processado por que tá dinheiro para site seja da esquerda ou da direita a 
+pessoa é livre mais uma blusa e **absurdo** mandando fechar site suspender 
+matérias aonde nós vamos falar minha gente escuta isso na inquisição quem 
+julgava investigava a humanidade evoluiu o meu **ministro** barroso que gosta 
+desse em o ju o que que é humanidade chegou à conclusão para não haver 
+abuso para não haver injustiça um é o que investido a polícia o outro o 
+ministério público é que verifica se acusa ou não e o outro julga o stf se 
+excedeu a inquisição eles são vítima eles a investiga a eles decidem se 
+deve ou não oferecer denúncia e ele julgam só tá faltando eles darem a pena 
+impitiman para eles mesmos que quiser vergonha eu quero deixar aqui um alerta 
+ao povo **brasileiro** por favor não confundam a ditadura da toga do stf com o 
+judiciário existem desembargadores existem juízes 11 e lagos com isso e por 
+favor não confundam o stj superior tribunal de justiça com stf **supremo** 
+tribunal federal a maioria do stj é gente de carreira do judiciário e não 
+tem nada a ver com essa vergonha com eu sou covarde meu mito vou falar do caso 
+de saron winter discordo dos métodos e da fala dela agora o **supremo** 
+tribunal federal manter essa mulher presa é mais um abuso da tirania do stf o 
+juiz aqui vou acusação contra a lei de segurança nacional um júlia e 
+aliança não é crime para ficar na cadeia lula tem mais de 10 anos de 
+condenação e passou o stf soltou um monte de crime a pandemia vergonha que 
+tira linda minha gente eu já que não vamos falar povo **brasileiro** e olha 
+aí minha gente mas de 500 oficiais generais da reserva **protesto** veemente 
+contra a tirania do stf eu vou terminar esse vídeo dizendo coisas assim 
+sérias sérias primeiro que vergonha se a omissão estágio columbre 
+presidente do **senado** ao missão de rodrigo maia presidente da câmara a 
+omissão desse esquerdo o pata de carteirinha ao santa cruz presidente da oab 
+oab sempre foi vanguarda em defesa da liberdade de expressão das garantias 
+individuais e contra qualquer ato de censura ditadura ai que vergonha a 
+**imprensa** calada apoiando o golpe da toga do stf por causa de grana por 
+causa de dinheiro querem derrubar bolsonaro agora minha gente minha gente 
+escute alexandre de moraes tinha que tomar um pitman do stf tinha que ir para 
+cadeia esse covarde que se esconde atrás da toga e manda fechar um jornal que 
+quando tiro os equipamentos os servidores e todo equipamento eletrônico é 
+para fechar o jornal olha pior do que um tempo da ditadura mas presta atenção 
+que eu vou falar mais dia menos dia e vai acontecer alguma coisa ou pelo 
+**senado** ou pela revolta do povo ou pelos militares ou por deus alguma coisa 
+vai acontecer e isso não vai ficar assim esses tiramos de toga do stf vão 
+cair vai acontecer alguma coisa a minha oração é que deus tenha 
+misericórdia do brasil livre a nossa nação do caos social do caos político 
+deus abençoe você e sua família deus abençoe amada pátria **brasileira** 
+de um povo heróico varonil deus abençoe o brasil 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo 
+artigo 
+brasileiro 
+ditador 
+imprensa 
+membro (secondary)
+ministro 
+protesto 
+senado 
+supremo 
+voto (secondary)

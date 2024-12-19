@@ -1,0 +1,64 @@
+file = t001631
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/075_-_OS_ABUSOS_DE_ALEXANDRE_DE_MORAES.pt.txt
+URL = no_url
+
+word count = 553
+words loading = 9
+factor score = 19
+
+povo abençoado do Brasil Desde o ano passado que eu venho denunciando os 
+abusos e **Absurdos** de Alexandre de Moraes O **Ditador** da toga é só você 
+entrar no meu canal do YouTube que tem vários vídeos eu vou mostrar dois 
+episódios recentes para vocês verem o nível desse **ditador** vou lembrar 
+vocês lembra da briga da família dele com uma outra família no aeroporto de 
+Roma tem um laudo da polícia italiana dizendo que encostaram levemente no os 
+do filho dele agora olha o que que eles fizeram a ex-presidente do STF rosa 
+verber porque isso tudo é um coluio ão todo mundo junto manda a polícia 
+federal na casa dessa família abuso de autoridade o inquérito tá no STF essa 
+família não tem foro e o pior Alexandre de Moraes vira assistente acusação 
+num caso que a sua família tá envolvida usurpação de competência 
+**artigo** 129 pertence da Constituição pertence ao Ministério Público a 
+ação penal para vocês verem o que que eles andam fazendo e agora coisa mais 
+grave um inocente porque quem acusa o ônus da prova que segundo dizem tava na 
+baderna do dia 8 foi preso o sor Cleriston e agora morreu só que em fevereiro 
+tem um laudo médico no processo dizendo que ele corria risco de vida o 
+advogado entrou de novo em setembro A procuradoria pediu a liberação dele ó 
+Alexandre de Moraes não tava nem aí e agora vem com um cinismo o que que 
+aconteceu **ditador** desgraçado Alexandre Moraes tem sangue nas tuas mãos 
+com a conivência dos 10 **ministros** do STF com a conivência do seu Rodrigo 
+Pacheco esse covarde frouxo presidente do **senado** que mancha a reputação 
+do Povo Mineiro e de grande parte dos **senadores** com exceção com a 
+conivência de uma **imprensa** Covarde omissa e parcial com a conivência da 
+OAB cambada de covarde que só prestam para defender esquerdopatas Ah e falar 
+do ministério hã dos direitos humanos só se for para defender esquerdopata e 
+bandido é uma vergonha o que estamos assistindo a constituição sendo rasgada 
+o devido processo legal sendo Rasgado o estado democrático de direito sendo 
+jogado na lata do lixo a esquerda cansou de fazer baderna nesse país nunca 
+foram acusados de golpe tacaram fogo no Ministério da Agricultura em 2017 
+invadiram o Congresso Nacional o STF não se meteu em nada agora pessoas que 
+não t foro no **Supremo** sendo julgadas com abuso de autoridade desse 
+**ditador** desgraçado Alexandre Moraes que merecia um impeachment ir pra 
+cadeia que país é esse que Covardia é essa que omissão é essa aonde vamos 
+parar até onde isso vai chegar fica aqui a minha indignação fica aqui o meu 
+**protesto** Eu não tenho medo de **ditadores** eu não tenho medo e vou dizer 
+uma palavra aqui senhor **ditador** da toga Alexandre Morais que tem sangue nas 
+tuas mãos se você e os seus colegas escaparem do **supremo** poder de uma 
+nação que é o povo vocês não vão escapar do **supremo** poder do universo 
+que é Deus não importa quando será Deus vai ag e vocês vão pagar caro pela 
+covardia e morte de inocente e tem outros lá hein doentes é uma covardia 
+Gente o que estamos assistindo o país fica aqui a minha indignação e o meu 
+**protesto** Deus tem misericórdia da nossa 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo 
+artigo 
+ditador 
+imprensa 
+ministro 
+protesto 
+senado 
+senador 
+supremo 

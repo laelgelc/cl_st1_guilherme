@@ -1,0 +1,90 @@
+file = t001057
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/451_-_STF,_e_não_Bolsonaro,_dá_golpe_no_Brasil,_instala_estado_policial_e_acaba_com_liberdade_de_expressão.pt.txt
+URL = no_url
+
+word count = 862
+words loading = 8
+factor score = 34
+
+o povo abençoado do brasil está confirmado comprovado o stf acaba de dar um 
+golpe no brasil ao permitir a permanência desses inquérito **absurdo** imoral 
+e ilegal das fake news rasgaram a constituição instalaram o estado policial e 
+jogaram fora a liberdade de expressão nas falas rápida desses **ministros** 
+para comentar a defesa desse **absurdo** qualquer estagiário de direito rir 
+vamos lá liberdade de expressão se confunde com ameaça na inflação 
+liberdade de expressão numa liberdade e agressão à liberdade de expressão 
+não é destruição da democracia ser registros extensão estão enganando 
+até vocês pensam que o povo é idiota todo mundo concorda com isso a questão 
+é essa não é a questão é que os senhores high é uma constituição são 
+carro fórum código penal e como qualquer **ditador** retirando instalar uma 
+nova ordem jurídica ofensa difamação calúnia ameaça já está no código 
+penal e não na caneta da toca da ditadura da toga do stf é ali a 
+constituição maior de todos são iguais perante a lei **artigo** 5º da 
+constituição os senhores do stf não é uma caixa o a divindade do stf que 
+estão acima da lei para um tratamento diferenciado e **absurdo** olha o 
+**absurdo** que a ministra cármen lúcia disse para apoiar essa ilegalidade 
+liberdade de expressão não pode ser de ombro para criminalidade e impunidade 
+é contra o poder judiciário qualquer ato que atente contra a condição de 
+segurança física e psíquica de um juiz quer dizer que quando o presidente 
+pode contra qualquer cidadão pode ali o que fizeram comigo ó para tirar um 
+desses aí levou quase quatro anos o stf tem admitir as inquérito **absurda** 
+imoral ilegal a uma classe especial de cidadãos os que pertencem ao 
+judiciário com essa monstruosa aberração jurídica o stf está ensinando o 
+seguinte a qualquer juízo qualquer juiz que for ameaçado caluniado xingado ao 
+invés de fazer um registro policial contratar advogado e abrir um processo 
+não não precisa isso ele mesmo vai instaurar investigação e fazer as 
+diligências e julgar acabou as leis do país acabou a constituição está 
+instalado a ditadura da toga do stf é exatamente isso que o stf acaba de fazer 
+ao manter o inquérito da pequena eu quero que o **absurdo** e moral e legal o 
+stf abre o inquérito sem a participação do ministério público federal 
+rasgaram a constituição o **artigo** 129 inciso 1 nos diz o seguinte 
+atribuição do ministério público promover privativamente repito 
+privativamente a ação penal pública na forma da lei e outra coisa que estão 
+fazendo o senhor **ministro** alexandre de moraes rasgando novamente a 
+constituição monta no seu gabinete com seus funcionários fazendo 
+diligências de investigação sem a participação da polícia federal 
+**artigo** 144 no x que é competente a polícia federal como órgão 
+investigar crimes na esfera federal o **absurdo** dos **absurdos** o stf seus 
+**ministros** são vítimas eles vão julgar os acusados essa é a maior 
+aberração jurídica que nunca aconteceu na história do nosso país tudo isso 
+povo **brasileiro** tem endereço certo e objetivo certo tentar produzir provas 
+para derrubar o presidente bolsonaro no tse só stf tse vocês vão ter que 
+passar por cima do povo dos militares e de deus não vai dar não agora minha 
+gente o que eu fico de boca aberta é ser a omissão do congresso na e o stf 
+inté série faz leis o stf interfere no executivo existe um projeto de lei a 
+minha gente pelo amor de deus tem um projeto de lei o pr-475 4 / 2016 de 
+autoria do deputado sóstenes cavalcante e outros o crime tipificado de 
+responsabilidade dos **ministros** do stf por usurpação de competência do 
+poder legislativo e executivo senhores deputados **senadores** vão acabar com 
+essa brincadeira e dá um limite a esses caras que acabam de instalar a 
+ditadura da toga no brasil senhor presidente bolsonaro não brinque essa ilega 
+é confirmada pelo stf com apoio dessa **imprensa** que perdeu o bilhões com a 
+sua chegada ao poder e também de maneira proposital a omissão do presidente 
+da câmara do presidente do **senado** e da oab querido presidente convoca as 
+forças armadas **artigo** 142 da constituição não é para dar golpe nem 
+instalar ditadura é para colocar ordem nessa bagunça provocada pelo stf quero 
+deixar bem claro que eu não estou fazendo acusações aqui ao judiciário há 
+juízes desembargadores e muito menos ao stj superior tribunal de justiça a 
+minha questão é a ditadura da toca instalada pelo stf e eu quero mostrar fala 
+de um tempo atrás da ministra cármen lúcia que define muito e quem é o stf 
+escutem censura prévia ea censura é mudança da liberdade gosta de mudar é 
+tirar quem gosta de censura impede os senhores **ministros** do stf ao 
+confirmarem esse inquérito **absurdo** e moral e legal os senhores são 
+tiranos e **ditadores** deus tenha misericórdia do brasil que deus ouça em 
+nome de jesus a oração de milhões de **brasileiros** que pedem para deus 
+livrar o brasil do caos social e do caos político que vem à tona diante do 
+povo **brasileiro** toda a trama que está escondida e que ninguém sabe deus 
+abençoe você deus abençoe o brasil é 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo 
+artigo 
+brasileiro 
+ditador 
+imprensa 
+ministro 
+senado 
+senador 

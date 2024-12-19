@@ -1,0 +1,56 @@
+file = t001179
+date = 2024-04-16
+user = silas_malafaia
+conversation = cl_st1_guilherme-dataset-output/hashtagFALAMALAFAIA/265_-_ALEXANDRE_DE_MORAES,_ANDRÉ_MENDONÇA_E_A_CONDENAÇÃO_DE_DANIEL_SILVEIRA.pt.txt
+URL = no_url
+
+word count = 406
+words loading = 8
+factor score = 18
+
+povo abençoado do Brasil Um Dia Triste na nossa história estamos presenciando 
+a falência da Democracia **brasileira** e com a conivência da Imprensa OAB 
+abi toda a esquerda grande parte de deputados e **senadores** em destaque o 
+covarde frouxo presidente do **senado** Rodrigo Pacheco e o covarde frouxo 
+presidente da Câmara artulheira nós não temos um Supremo Tribunal Federal 
+nós temos um tribunal de exceção comandado por Alexandre de Moraes que 
+coloca nove **ministros** de joelho rasgando sistematicamente a Constituição 
+Brasileira se Daniel Silveira fosse um deputado da esquerda vocês vão ver um 
+Banzé que ia ser criado esse país e vou com substância essa minha fala em 
+2014 o MST tentou invadir o Supremo Tribunal Federal 30 policiais feridos oito 
+estado grave os **ministros** tiveram que ser retirado apressadamente dos 11 
+**ministros** que estão seis seis estavam lá naquela época é uma vergonha 
+moralmente esses **ministros** que o que votar contra vou dar o nome deles para 
+você saberem Gilmar Mendes Barroso Rosa Weber Lewandowski Carmem Lúcia eles 
+estavam lá foram retirados ninguém fez nada contra essa barbaridade que moral 
+essa gente tem para condenar Daniel Silveira os **Absurdos** jurídicos da 
+condenação de Daniel Silveira escute isso o povo **brasileiro** um homicídio 
+simples para réu primário é seis anos de prisão para queimada Daniel tá 
+sendo condenado a oito por suas palavras e uma outra coisa séria e grave 
+Alexandre de Moraes é vítima acusador julgador e Carrasco nem poderia 
+participar do processo Isso é uma vergonha fez mil manobras para condenar o 
+réu em regime fechado e caçar seu mandato **ditador** cretino desgraçado 
+julgamento e condenação que mancha o judiciário **brasileiro** terrivelmente 
+decepcionado com **Ministro** André Mendonça que se rende ao **ditador** da 
+toga envergonha o povo evangélico e quero dizer parabéns **Ministro** Cássio 
+Nunes terrivelmente você me representa **artigo** 53 da Constituição 
+deputados e **senadores** são invioláveis civil e penalmente por quaisquer 
+não tá perguntando se é bonito ou se é festa ofensiva quaisquer opiniões 
+palavras e **votos** o que o Daniel Silveira fez a sua indignação que 
+representa a indignação do povo **brasileiro** expressar de maneira forte 
+agora senhores **ministros** do STF explique o povo **brasileiro** vocês 
+livraram Lula que comandou nós queima de corrupção da história política do 
+Brasil e foi condenado por unanimidade em todas as instâncias da Justiça Que 
+vergonha a minha oração Deus nome de Jesus exerce juízo sobre a injustiça 
+desses homens Deus abençoe o Brasil 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo 
+artigo 
+brasileiro 
+ditador 
+ministro 
+senado 
+senador 
+voto (secondary)
