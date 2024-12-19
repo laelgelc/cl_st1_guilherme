@@ -435,7 +435,7 @@ stop_instance() {
 
 inputvariables () {
   # enter project name - do not use names that contain spaces
-  project=cl_st1_querem
+  project=cl_st1_guilherme
 }
 
 inputvariables
